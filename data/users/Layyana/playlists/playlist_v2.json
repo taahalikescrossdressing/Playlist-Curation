@@ -1,0 +1,226 @@
+[
+  {
+    "artist": "Harry Styles",
+    "title": "Ever Since New York",
+    "mbid": "04e92e7e-2308-4d08-998b-7dcb6bc37612",
+    "source": "MB recording (seed)",
+    "release_date": "2017-05-12"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "Daylight",
+    "mbid": "07bb7cd7-fd7a-4106-bff5-28eb150d1a3d",
+    "source": "MB recording (seed)",
+    "release_date": "2022-04-20"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "Always Writing",
+    "mbid": "0be063f3-60a3-4bf8-abbc-ff62bbbb5ff7",
+    "source": "MB recording (seed)",
+    "release_date": "2017-06-16"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "Daydreaming",
+    "mbid": "0db9b3f4-3340-444c-a4f0-322057fc79be",
+    "source": "MB recording (seed)",
+    "release_date": "2022-05-20"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "mbid": "1d1edf98-48d0-43ea-9b78-82c56a1960b5",
+    "source": "MB recording (seed)",
+    "release_date": "2022-03-21"
+  },
+  {
+    "artist": "Shawn Mendes",
+    "title": "Bad Reputation",
+    "mbid": "0f5a6cbc-ac24-4b6a-8c12-907bf8f1b09a",
+    "source": "MB recording (similar)",
+    "release_date": "2016-12-23"
+  },
+  {
+    "artist": "Shawn Mendes",
+    "title": "Aftertaste",
+    "mbid": "11078543-2e3f-4765-9968-b3e1fb937f09",
+    "source": "MB recording (similar)",
+    "release_date": "2015-11-19"
+  },
+  {
+    "artist": "Shawn Mendes",
+    "title": "Ballin Flossin",
+    "mbid": "3c4ccceb-3125-420c-962f-d1110102f018",
+    "source": "MB recording (similar)",
+    "release_date": "2019-07-26"
+  },
+  {
+    "artist": "Niall Horan",
+    "title": "Black and White",
+    "mbid": "06bcf2f6-7ac8-4097-8a31-f9ee48344281",
+    "source": "MB recording (similar)",
+    "release_date": "2020-03-13"
+  },
+  {
+    "artist": "Niall Horan",
+    "title": "Black and White (stripped)",
+    "mbid": "0889b02f-9600-4d4d-82f1-d2ea37e8e541",
+    "source": "MB recording (similar)",
+    "release_date": "2020-05-22"
+  },
+  {
+    "artist": "Niall Horan",
+    "title": "Black And White - Live From Madison Square Garden",
+    "mbid": "11965fe6-6ba6-4ce0-b2ea-8b201b082a92",
+    "source": "MB recording (similar)",
+    "release_date": "2024-11-22"
+  },
+  {
+    "artist": "The 1975",
+    "title": "A Change of Heart (demo)",
+    "mbid": "0104b786-db55-4ff4-bc71-38928da4a82d",
+    "source": "MB recording (similar)",
+    "release_date": "2016-02-26"
+  },
+  {
+    "artist": "The 1975",
+    "title": "A Change of Heart",
+    "mbid": "3e1d1593-253b-4014-bb19-9e197856cae8",
+    "source": "MB recording (similar)",
+    "release_date": "2017"
+  },
+  {
+    "artist": "The 1975",
+    "title": "All I Need To Hear",
+    "mbid": "45bff3c1-c3c6-46e1-91fe-47f1b19b6509",
+    "source": "MB recording (similar)",
+    "release_date": "2023-01-06"
+  },
+  {
+    "artist": "Pale Waves",
+    "title": "Glasgow",
+    "mbid": "042da8d4-cda4-4cfb-92a9-f157b9ea654c",
+    "source": "MB recording (similar)",
+    "release_date": "2024-09-27"
+  },
+  {
+    "artist": "Pale Waves",
+    "title": "Black",
+    "mbid": "22f6e289-d89f-4e52-bb4c-c8377ef80453",
+    "source": "MB recording (similar)",
+    "release_date": "2018-09-14"
+  },
+  {
+    "artist": "Pale Waves",
+    "title": "Came In Close",
+    "mbid": "2a99a251-d6b7-4211-b537-a94600bbf52b",
+    "source": "MB recording (similar)",
+    "release_date": "2018-09-14"
+  },
+  {
+    "artist": "The Neighbourhood",
+    "title": "Afraid",
+    "mbid": "0191dcb7-6d32-48ad-bd9f-88372832b458",
+    "source": "MB recording (similar)",
+    "release_date": "2013-04-19"
+  },
+  {
+    "artist": "The Neighbourhood",
+    "title": "#icanteven",
+    "mbid": "2341c551-50ed-4b0d-bca9-ee0626df50ee",
+    "source": "MB recording (similar)",
+    "release_date": "2014-11-28"
+  },
+  {
+    "artist": "The Neighbourhood",
+    "title": "*NSTYNCT",
+    "mbid": "3f3341ea-2219-4954-974d-c7717ce48af7",
+    "source": "MB recording (similar)",
+    "release_date": "2014-11-28"
+  },
+  {
+    "artist": "Panic! at the Disco",
+    "title": "(Fuck a) Silver Lining",
+    "mbid": "016f45bd-a9f7-43c9-80db-c80f6f91ee0c",
+    "source": "MB recording (similar)",
+    "release_date": "2018-03-21"
+  },
+  {
+    "artist": "Panic! at the Disco",
+    "title": "Bohemian Rhapsody",
+    "mbid": "127aff87-a923-4c74-8b1b-3c3cfd65a81c",
+    "source": "MB recording (similar)",
+    "release_date": "2017-12-15"
+  },
+  {
+    "artist": "Panic! at the Disco",
+    "title": "(Just a) Simple Sponge",
+    "mbid": "1fd4cde4-2621-4e9f-998a-307d7b4a28a7",
+    "source": "MB recording (similar)",
+    "release_date": "2017-09-22"
+  },
+  {
+    "artist": "Charli xcx",
+    "title": "1 Night (Kyle Meehan remix)",
+    "mbid": "0b3152a5-51a1-4e8d-a83e-101f590688e3",
+    "source": "MB recording (similar)",
+    "release_date": "2017-03-17"
+  },
+  {
+    "artist": "Charli xcx",
+    "title": "5 in the Morning",
+    "mbid": "0d14c9c0-f5ed-48dd-b0f1-cc90e4b52d44",
+    "source": "MB recording (similar)",
+    "release_date": "2018-05-31"
+  },
+  {
+    "artist": "Charli xcx",
+    "title": "3AM (Pull Up)",
+    "mbid": "15095655-5a9a-45f1-a976-d1c8d741d00a",
+    "source": "MB recording (similar)",
+    "release_date": "2017-03-10"
+  },
+  {
+    "artist": "Halsey",
+    "title": "¿",
+    "mbid": "0307a69c-11b6-4dc1-af2d-f4f8a42d2c77",
+    "source": "MB recording (similar)",
+    "release_date": "2019-12-27"
+  },
+  {
+    "artist": "Halsey",
+    "title": "3am (stripped)",
+    "mbid": "2b375f99-caf1-4b24-ae90-8c9e5bfcfe5a",
+    "source": "MB recording (similar)",
+    "release_date": "2020-09-29"
+  },
+  {
+    "artist": "Halsey",
+    "title": "11 Minutes",
+    "mbid": "3370d24f-15ff-4260-9588-6805b29fd1b7",
+    "source": "MB recording (similar)",
+    "release_date": "2019-02-14"
+  },
+  {
+    "artist": "Billie Eilish",
+    "title": "all the good girls go to hell",
+    "mbid": "1c3683c9-9008-4777-866b-5aacea6187dc",
+    "source": "MB recording (similar)",
+    "release_date": "2019-03-29"
+  },
+  {
+    "artist": "Billie Eilish",
+    "title": "8",
+    "mbid": "23caec99-7f8d-4c26-90d7-04d3750c5970",
+    "source": "MB recording (similar)",
+    "release_date": "2019-03-29"
+  },
+  {
+    "artist": "Billie Eilish",
+    "title": "&burn",
+    "mbid": "4148a1fc-aaa3-4414-abf0-7c882933dc10",
+    "source": "MB recording (similar)",
+    "release_date": "2017-12-12"
+  }
+]

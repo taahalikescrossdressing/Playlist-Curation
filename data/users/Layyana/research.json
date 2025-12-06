@@ -1,0 +1,2892 @@
+{
+  "seed_artists": {
+    "Charlie Puth": {
+      "name": "Charlie Puth",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "artist_info": {
+        "id": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Charlie Puth",
+        "sort-name": "Puth, Charlie",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "a8c1a03c-60b1-4e36-bb96-302bd9c4c988",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Rumson",
+          "sort-name": "Rumson",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00640672748",
+          "00640672846",
+          "00858767370"
+        ],
+        "isnis": [
+          "0000000448806927"
+        ],
+        "life-span": {
+          "begin": "1991-12-02",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "찰리푸스",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "찰리푸스",
+            "locale": "ko_KR",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "찰리 푸스",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "찰리 푸스",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Puth, Charles Otto, Jr.",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Charles Otto Puth Jr.",
+            "locale": "en_US",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 7,
+            "name": "pop"
+          },
+          {
+            "count": 0,
+            "name": "funk"
+          },
+          {
+            "count": 1,
+            "name": "soul"
+          },
+          {
+            "count": 1,
+            "name": "ballad"
+          },
+          {
+            "count": 1,
+            "name": "dance-pop"
+          },
+          {
+            "count": 1,
+            "name": "neo soul"
+          },
+          {
+            "count": 0,
+            "name": "pop soul"
+          },
+          {
+            "count": 1,
+            "name": "contemporary pop/rock"
+          },
+          {
+            "count": 2,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "soft pop"
+          },
+          {
+            "count": 1,
+            "name": "social media pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "video": false,
+            "id": "0289e6ff-a357-4a6f-bbb5-007f54224818",
+            "title": "Attention (Lash remix)",
+            "length": 175300,
+            "first-release-date": "2017-06-09",
+            "disambiguation": ""
+          },
+          {
+            "id": "0387ab04-b1f3-4ce3-b7d2-ec2c25cdafd5",
+            "video": false,
+            "title": "Attention",
+            "length": 247000,
+            "disambiguation": "live; SiriusXM Studios"
+          },
+          {
+            "title": "Attention (HUGEL remix)",
+            "disambiguation": "",
+            "first-release-date": "2017-06-09",
+            "length": 276610,
+            "id": "0715bbec-1399-4752-bf2b-dfca5f6bce6b",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "0a111d25-321a-4e23-8d98-85d5e71f0057",
+            "title": "BOY",
+            "first-release-date": "2022",
+            "disambiguation": "Dolby Atmos mix",
+            "length": 263000
+          },
+          {
+            "video": false,
+            "id": "0aa24bdc-c25b-4318-b71f-55e97e53bd4e",
+            "title": "Beautiful Corruption",
+            "length": 203478,
+            "first-release-date": "2013-10-23",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "id": "0aab38c5-4a66-48f3-9c94-46a9f85cd2dd",
+            "first-release-date": "2011-12-22",
+            "length": 224000,
+            "disambiguation": "",
+            "title": "Break Again"
+          },
+          {
+            "video": false,
+            "id": "19b6d048-f981-40e9-8235-a5acf969e5df",
+            "first-release-date": "2017-04-20",
+            "disambiguation": "",
+            "length": 208786,
+            "title": "Attention"
+          },
+          {
+            "id": "22e09b76-64d1-4173-8e6f-7fd0d268f18b",
+            "video": false,
+            "title": "Back to Your Heart",
+            "length": 194400,
+            "first-release-date": "2013-03-28",
+            "disambiguation": ""
+          },
+          {
+            "title": "Attention",
+            "length": 231000,
+            "first-release-date": "2017-04-24",
+            "disambiguation": "music video",
+            "video": true,
+            "id": "318d12f7-4e91-4583-936a-3693041fe5dc"
+          },
+          {
+            "id": "36e1928f-77dd-4851-9955-5c8ba98f0b11",
+            "video": false,
+            "title": "Attention (remix)",
+            "first-release-date": "2017-06-09",
+            "length": 218389,
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "id": "39796549-180b-4b9b-be93-8f17cf22f04f",
+            "first-release-date": "2017-06-09",
+            "length": 192000,
+            "disambiguation": "",
+            "title": "Attention (David Guetta remix)"
+          },
+          {
+            "id": "3a914d79-0542-41dc-808f-fe68f92db2a2",
+            "video": false,
+            "title": "Attention (Oliver Heldens remix)",
+            "first-release-date": "2017-06-09",
+            "length": 202098,
+            "disambiguation": ""
+          },
+          {
+            "title": "Angel Pt. 2",
+            "first-release-date": "2023-06-15",
+            "length": 176454,
+            "disambiguation": "Dolby Atmos mix",
+            "id": "448f5011-eed7-418a-9b92-fb4706529f05",
+            "video": false
+          },
+          {
+            "title": "As You Are",
+            "disambiguation": "Dolby Atmos mix",
+            "first-release-date": "2022",
+            "length": 236000,
+            "id": "480f5c7e-de95-4071-9ffa-d692b9ac74ea",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "54b74583-7d66-4157-9d33-2c237554e385",
+            "title": "Attention (acoustic)",
+            "first-release-date": "2017-06-09",
+            "disambiguation": "",
+            "length": 206702
+          },
+          {
+            "first-release-date": "2022-01-09",
+            "length": 226719,
+            "disambiguation": "",
+            "title": "Carry On",
+            "id": "573a9fd5-1eb0-447b-9f1a-2ec574b35b77",
+            "video": false
+          },
+          {
+            "id": "65594adb-6bf7-4c5e-8ffc-b2420cc505eb",
+            "video": false,
+            "first-release-date": "2016-01-29",
+            "disambiguation": "",
+            "length": 235920,
+            "title": "As You Are"
+          },
+          {
+            "video": false,
+            "id": "6bdc451f-499f-4fbd-9764-6ec49fc0c3f8",
+            "length": 208714,
+            "first-release-date": "2021-09-22",
+            "disambiguation": "",
+            "title": "After All"
+          },
+          {
+            "video": false,
+            "id": "8999d86e-4e13-4c79-bc41-2dc2ba65482a",
+            "title": "Angel, Pt. 2",
+            "length": 176454,
+            "first-release-date": "2023-05-18",
+            "disambiguation": ""
+          },
+          {
+            "id": "8a73b3a8-fa17-4012-b291-a8d1816743ab",
+            "video": false,
+            "first-release-date": "2017-08-23",
+            "disambiguation": "live, 2017‐08‐23: Spotify Studios NYC, New York, NY, USA",
+            "length": 222000,
+            "title": "Attention"
+          },
+          {
+            "video": false,
+            "id": "8bd75aa4-f9eb-46cc-b621-b8704bb06e6b",
+            "title": "BOY",
+            "first-release-date": "2018-05-11",
+            "disambiguation": "",
+            "length": 263000
+          },
+          {
+            "first-release-date": "2009-10-11",
+            "disambiguation": "",
+            "length": 166000,
+            "title": "Baby It's You",
+            "video": false,
+            "id": "921cbc81-799a-4333-8de4-af268657646a"
+          },
+          {
+            "video": false,
+            "id": "a49a87d3-6831-4a0b-bb9e-1d432b49eb71",
+            "first-release-date": "2017-06-29",
+            "disambiguation": "",
+            "length": 260097,
+            "title": "Attention (Oliver Heldens extended remix)"
+          },
+          {
+            "title": "Attention (One World: Together at Home)",
+            "first-release-date": "2020-04-19",
+            "length": 246046,
+            "disambiguation": "",
+            "video": false,
+            "id": "ad249f19-2cb6-44cf-a56d-c9d8b43ef0e3"
+          },
+          {
+            "id": "bac3db1e-b0c1-4f07-889e-0e0883f315e0",
+            "video": false,
+            "length": 218000,
+            "first-release-date": "2014-10-01",
+            "disambiguation": "",
+            "title": "Betty Boop"
+          },
+          {
+            "video": false,
+            "id": "bbba4cde-b73d-465b-a9b9-02be23c47bed",
+            "first-release-date": "2022",
+            "length": 209000,
+            "disambiguation": "Dolby Atmos mix",
+            "title": "Attention"
+          },
+          {
+            "title": "Attention (Joe Slay Remix)",
+            "first-release-date": "2018-02-16",
+            "length": 220000,
+            "disambiguation": "",
+            "video": false,
+            "id": "c1ae494c-0ac4-4cd4-8813-4a70d80ca44c"
+          },
+          {
+            "id": "c3aa9270-40ed-4362-a8d9-60e1be868478",
+            "video": false,
+            "title": "1984",
+            "length": 235051,
+            "first-release-date": "2014-03-16",
+            "disambiguation": ""
+          },
+          {
+            "title": "Attention (Bingo Players remix)",
+            "disambiguation": "",
+            "first-release-date": "2017-06-09",
+            "length": 144000,
+            "id": "e5e29d1a-6a3f-4e07-bc55-59d6d46b5d57",
+            "video": false
+          },
+          {
+            "length": 218000,
+            "first-release-date": "2008",
+            "disambiguation": "",
+            "title": "Change",
+            "video": false,
+            "id": "f4fec700-2c57-4828-8e58-482acc9f03f4"
+          }
+        ],
+        "recording-count": 300
+      }
+    }
+  },
+  "similar_artists": {
+    "Jon Bellion": {
+      "name": "Jon Bellion",
+      "mbid": "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+      "artist_info": {
+        "id": "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Jon Bellion",
+        "sort-name": "Bellion, Jon",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "614955dc-f1a5-4c03-956c-0306cb68020f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Lake Grove",
+          "sort-name": "Lake Grove",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00667682299"
+        ],
+        "isnis": [
+          "0000000462811618"
+        ],
+        "life-span": {
+          "begin": "1990-12-26",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Bellion, Jonathan",
+            "name": "Jonathan Bellion",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Bellion, J.",
+            "name": "J. Bellion",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Bellion, Jonathan David",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Jonathan David Bellion",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "hip hop"
+          },
+          {
+            "count": 2,
+            "name": "pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "id": "1027aec8-a32f-4866-83e3-aeedc5d9eb8e",
+            "length": 313000,
+            "first-release-date": "2018-11-09",
+            "title": "Adult Swim",
+            "disambiguation": "explicit",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "80's Films",
+            "video": false,
+            "id": "167f0168-44b6-478d-b095-5981e19b2230",
+            "length": 216000,
+            "first-release-date": "2016-05-27"
+          },
+          {
+            "disambiguation": "",
+            "title": "Adult Swim Pt 2",
+            "video": false,
+            "length": 245707,
+            "id": "24a8a897-40a6-48ba-ae6a-96d1386186af",
+            "first-release-date": "2020-12-10"
+          },
+          {
+            "first-release-date": "2016",
+            "length": 211147,
+            "id": "26a174eb-33cf-4d1c-b88e-fb9ef3a43717",
+            "video": false,
+            "title": "All Time Low",
+            "disambiguation": ""
+          },
+          {
+            "length": 216000,
+            "id": "394e72e3-9be5-4c0d-a817-4c35ec1996bb",
+            "first-release-date": "2017-06-25",
+            "title": "80's Films (The Midnight remix)",
+            "disambiguation": "",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "All Time Low",
+            "video": false,
+            "length": 218093,
+            "id": "424ea87d-e3b5-4cf8-a594-ca364e0d23be",
+            "first-release-date": "2017"
+          },
+          {
+            "first-release-date": "2015-04-14",
+            "length": 221333,
+            "id": "4bd84977-c33c-49d7-9b91-8437231aea4c",
+            "video": false,
+            "disambiguation": "",
+            "title": "All Time Low"
+          },
+          {
+            "first-release-date": "2020-12-10",
+            "length": 460721,
+            "id": "554c1716-ec2f-4878-b233-f80bb1edfe3c",
+            "video": false,
+            "title": "Adult Swim Pt 1",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "title": "2 Rocking Chairs",
+            "disambiguation": "",
+            "first-release-date": "2013-12-10",
+            "id": "78b84c38-aabe-4094-9285-741b219d10c4",
+            "length": 180000
+          },
+          {
+            "title": "Adult Swim",
+            "disambiguation": "clean",
+            "video": false,
+            "id": "7fa57456-1bbf-4a99-9125-f8392f099c39",
+            "length": 313000,
+            "first-release-date": "2018-11-09"
+          },
+          {
+            "length": 212000,
+            "id": "85d1cda8-04b1-4b3a-a12b-e26b1599e7cc",
+            "first-release-date": "2017-04-07",
+            "disambiguation": "",
+            "title": "All Time Low",
+            "video": false
+          },
+          {
+            "video": false,
+            "disambiguation": "",
+            "title": "A Haunted House",
+            "first-release-date": "2014-09-23",
+            "id": "8899ee60-c3f5-45c2-9394-df08b9722372",
+            "length": 183123
+          },
+          {
+            "id": "88f5f8ee-33a5-4ce8-9453-4475e70c4c72",
+            "length": 230000,
+            "video": false,
+            "disambiguation": "",
+            "title": "All Time Low"
+          },
+          {
+            "video": false,
+            "disambiguation": "",
+            "title": "A Dedicated Instrumental",
+            "first-release-date": "2013-12-10",
+            "length": 92000,
+            "id": "c41ad43c-6baa-47d1-8a55-0023468f6e62"
+          },
+          {
+            "first-release-date": "2020-12-10",
+            "length": 79725,
+            "id": "cc4e4938-5340-481c-abae-4566ef0c7e0b",
+            "video": false,
+            "disambiguation": "",
+            "title": "Adult Swim Pt 3"
+          }
+        ],
+        "recording-count": 177,
+        "recording-offset": 0
+      }
+    },
+    "Shawn Mendes": {
+      "name": "Shawn Mendes",
+      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "artist_info": {
+        "id": "b7d92248-97e3-4450-8057-6fe06738f735",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Shawn Mendes",
+        "sort-name": "Mendes, Shawn",
+        "gender": "male",
+        "country": "CA",
+        "area": {
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Canada",
+          "sort-name": "Canada",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "2f0ef58d-bed8-4661-bb9a-a509c7ac3bcc",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Pickering",
+          "sort-name": "Pickering",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00745895294"
+        ],
+        "isnis": [
+          "0000000453002747"
+        ],
+        "life-span": {
+          "begin": "1998-08-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "ショーン・メンデス",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ショーン・メンデス",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Mendes, Shawn Peter Raul",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Shawn Peter Raul Mendes",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 3,
+            "name": "folk pop"
+          },
+          {
+            "count": 2,
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "name": "pop soul"
+          },
+          {
+            "count": 2,
+            "name": "teen pop"
+          },
+          {
+            "count": 2,
+            "name": "2010s"
+          },
+          {
+            "count": 2,
+            "name": "2020s"
+          },
+          {
+            "count": 2,
+            "name": "english"
+          },
+          {
+            "count": 0,
+            "name": "piano rock"
+          },
+          {
+            "count": 4,
+            "name": "pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "video": false,
+            "id": "0f5a6cbc-ac24-4b6a-8c12-907bf8f1b09a",
+            "first-release-date": "2016-12-23",
+            "length": 312475,
+            "disambiguation": "live, 2016-09-10: Madison Square Garden, New York, NY, USA",
+            "title": "Bad Reputation"
+          },
+          {
+            "title": "Aftertaste",
+            "disambiguation": "live, 2015‐08‐16: Greek Theatre, Los Angeles, CA, USA",
+            "first-release-date": "2015-11-19",
+            "length": 158600,
+            "id": "11078543-2e3f-4765-9968-b3e1fb937f09",
+            "video": false
+          },
+          {
+            "first-release-date": "2019-07-26",
+            "length": 170000,
+            "title": "Ballin Flossin",
+            "disambiguation": "clean",
+            "video": false,
+            "id": "3c4ccceb-3125-420c-962f-d1110102f018"
+          },
+          {
+            "title": "24 Hours",
+            "disambiguation": "",
+            "first-release-date": "2020-12-04",
+            "length": 150781,
+            "id": "3f42c3ba-06e8-4e8a-bed1-fd5eb35d3fa1",
+            "video": false
+          },
+          {
+            "length": 167193,
+            "first-release-date": "2020-12-04",
+            "disambiguation": "",
+            "title": "Always Been You",
+            "video": false,
+            "id": "41878708-20d0-4786-a840-68447a13c81a"
+          },
+          {
+            "disambiguation": "",
+            "title": "305",
+            "first-release-date": "2020-12-04",
+            "length": 189072,
+            "id": "41d99acf-4162-433d-b1e7-f18fa9e1b315",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "Act Like You Love Me",
+            "length": 205000,
+            "first-release-date": "2015-11-19",
+            "id": "54092a06-c8c9-4663-91d8-cf08f6467ed9",
+            "video": false
+          },
+          {
+            "id": "68874918-94ed-4b1d-ac32-0c5eed6f6932",
+            "video": false,
+            "title": "Bad Reputation",
+            "disambiguation": "",
+            "length": 198220,
+            "first-release-date": "2016-09-23"
+          },
+          {
+            "title": "Aftertaste",
+            "disambiguation": "",
+            "length": 169573,
+            "first-release-date": "2015-04-14",
+            "id": "7067c7f4-4c01-4232-a46a-d7a312e4cfe1",
+            "video": false
+          },
+          {
+            "id": "740f5d56-4aa5-422d-9663-e7a1b7cfea6f",
+            "video": false,
+            "disambiguation": "",
+            "title": "Bad Reputation (MTV Unplugged)",
+            "first-release-date": "2017-11-03",
+            "length": 311128
+          },
+          {
+            "disambiguation": "",
+            "title": "A Little Too Much",
+            "length": 187000,
+            "first-release-date": "2015-04-14",
+            "id": "84ac165e-2ed3-425a-8eae-e27cd9015202",
+            "video": false
+          },
+          {
+            "length": 189000,
+            "first-release-date": "2015-11-19",
+            "title": "A Little Too Much",
+            "disambiguation": "live, 2015‐08‐16: Greek Theatre, Los Angeles, CA, USA",
+            "video": false,
+            "id": "ac4283cd-542c-4038-b9ee-b59466416870"
+          },
+          {
+            "disambiguation": "",
+            "title": "Air",
+            "first-release-date": "2015-04-14",
+            "length": 194000,
+            "id": "c7c836cb-9f45-4e32-b4af-be341dd51047",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "d0575567-71e8-43e7-8039-edcb33cfa586",
+            "length": 212638,
+            "first-release-date": "2020-12-07",
+            "title": "Always Been You",
+            "disambiguation": "live, The Wonder Residences"
+          },
+          {
+            "id": "e580272a-feaa-45c0-9f3e-05703ad7bcbd",
+            "video": false,
+            "title": "Ballin Flossin",
+            "disambiguation": "explicit",
+            "length": 170000,
+            "first-release-date": "2019-07-26"
+          }
+        ],
+        "recording-count": 231,
+        "recording-offset": 0
+      }
+    },
+    "Lauv": {
+      "name": "Lauv",
+      "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+      "artist_info": {
+        "id": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Lauv",
+        "sort-name": "Lauv",
+        "gender": "male",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "San Francisco",
+          "sort-name": "San Francisco",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00696646680"
+        ],
+        "isnis": [
+          "000000046665674X"
+        ],
+        "life-span": {
+          "begin": "1994-08-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "라우브",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Lauv",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Leff, Ari",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Ari Leff",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Leff, Ari Staprans",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Ari Staprans Leff",
+            "locale": "en",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "indie pop"
+          },
+          {
+            "count": 2,
+            "name": "electropop"
+          },
+          {
+            "count": 2,
+            "name": "alternative pop"
+          },
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 1,
+            "name": "pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "disambiguation": "",
+            "first-release-date": "2017-12-15",
+            "title": "A Different Way (Henry Fong remix)",
+            "length": 187200,
+            "id": "03fd7eac-4b21-4f13-b715-b56897362c8d",
+            "video": false
+          },
+          {
+            "title": "Adrenaline",
+            "length": 206000,
+            "id": "11086b98-4c2f-4d7b-a4ac-25b2a5899a63",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2015-09-25"
+          },
+          {
+            "length": 182506,
+            "title": "All 4 Nothing (I’m So in Love)",
+            "video": false,
+            "id": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+            "disambiguation": "",
+            "first-release-date": "2022-04-08"
+          },
+          {
+            "first-release-date": "2022-01-28",
+            "disambiguation": "",
+            "video": false,
+            "id": "14498f79-4925-4199-9ae4-cdb83f4f47ab",
+            "length": 159173,
+            "title": "26"
+          },
+          {
+            "id": "2b17cfa9-d210-4ec3-bdd5-51639c39cdc4",
+            "video": false,
+            "title": "A Different Way (Kayzo remix)",
+            "length": 300413,
+            "first-release-date": "2017-12-08",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "Dolby Atmos mix",
+            "first-release-date": "2022-04-08",
+            "title": "26",
+            "length": 159607,
+            "id": "368d5b29-12b6-46ad-a6b1-3679898eac5e",
+            "video": false
+          },
+          {
+            "first-release-date": "2018",
+            "disambiguation": "",
+            "video": false,
+            "id": "5cfc03fd-14de-4e4b-9c9a-be7009826472",
+            "length": 196386,
+            "title": "A Different Way"
+          },
+          {
+            "first-release-date": "2017-03-11",
+            "disambiguation": "",
+            "id": "5ffeda6b-a906-4d11-a352-4a2b8a0c69b0",
+            "video": false,
+            "title": "A Different Way",
+            "length": 198000
+          },
+          {
+            "first-release-date": "2017-12-01",
+            "disambiguation": "",
+            "video": false,
+            "id": "7061a21e-4894-4a4f-992f-dda515e70177",
+            "length": 279273,
+            "title": "A Different Way (Bro Safari & ETC!ETC! remix)"
+          },
+          {
+            "id": "80d38635-538e-46c7-ac13-daa9afd45b46",
+            "video": true,
+            "title": "All 4 Nothing (I’m So in Love)",
+            "length": 196000,
+            "first-release-date": "2022-08-05",
+            "disambiguation": ""
+          },
+          {
+            "id": "854035ce-28c4-4cef-88ab-e5bd832d198a",
+            "video": true,
+            "title": "26",
+            "length": 160000,
+            "first-release-date": "2022-08-05",
+            "disambiguation": ""
+          },
+          {
+            "title": "2021",
+            "length": 195952,
+            "id": "9b99a21f-ea02-4bbe-b8f8-6855f4f9be27",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2020-12-31"
+          },
+          {
+            "id": "9e434bc7-ffbc-4e21-8e9b-8af2ee21d4e0",
+            "video": false,
+            "title": "A Different Way (Noizu remix)",
+            "length": 248710,
+            "first-release-date": "2017-12-01",
+            "disambiguation": ""
+          },
+          {
+            "title": "A Different Way (DEVAULT remix)",
+            "length": 216000,
+            "id": "a65bf5ef-6035-4bbb-a147-5b70ed6d7dd8",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2017-12-15"
+          },
+          {
+            "first-release-date": "2018-05",
+            "disambiguation": "",
+            "id": "fc852c48-696d-4d1e-b10c-a659b8dc94cf",
+            "video": false,
+            "title": "A Different Way",
+            "length": 284000
+          }
+        ],
+        "recording-offset": 0,
+        "recording-count": 183
+      }
+    },
+    "Troye Sivan": {
+      "name": "Troye Sivan",
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "artist_info": {
+        "id": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Troye Sivan",
+        "sort-name": "Sivan, Troye",
+        "gender": "male",
+        "country": "AU",
+        "area": {
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Australia",
+          "sort-name": "Australia",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "291777c2-c48d-4002-9a0d-c7f87fea5c2b",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Johannesburg",
+          "sort-name": "Johannesburg",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00721475945",
+          "00721476060",
+          "00741827925"
+        ],
+        "isnis": [
+          "0000000440295763"
+        ],
+        "life-span": {
+          "begin": "1995-06-05",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "트로이",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "트로이",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "트로이 시반",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "트로이 시반",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Troye Sivan",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Troye Sivan",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Mellet, Troye Sivan",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Troye Sivan Mellet",
+            "locale": "en",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 6,
+            "name": "pop"
+          },
+          {
+            "count": 4,
+            "name": "electropop"
+          },
+          {
+            "count": 2,
+            "name": "synthpop"
+          },
+          {
+            "count": 3,
+            "name": "queer"
+          },
+          {
+            "count": 1,
+            "name": "dream-pop"
+          },
+          {
+            "count": 1,
+            "name": "synth-pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 299,
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "title": "1999 (Michael Calfan remix)",
+            "disambiguation": "",
+            "video": false,
+            "length": 183000,
+            "id": "132da16f-4756-4f22-8d6d-e5220e2ccc5c",
+            "first-release-date": "2018-11-23"
+          },
+          {
+            "first-release-date": "2018-12-07",
+            "id": "297c2593-c4d2-453c-a9ce-275982ff340f",
+            "length": 198720,
+            "video": false,
+            "disambiguation": "",
+            "title": "1999 (R3HAB remix)"
+          },
+          {
+            "video": false,
+            "title": "1999 (The Knocks remix)",
+            "disambiguation": "",
+            "first-release-date": "2019-01-18",
+            "length": 220926,
+            "id": "2f217f41-4930-4c24-954b-325bb2e3c952"
+          },
+          {
+            "disambiguation": "",
+            "title": "1999 (EASYFUN remix)",
+            "video": false,
+            "id": "4ce6f5f5-6df6-4535-b396-e1e6fd22bebf",
+            "length": 192588,
+            "first-release-date": "2018-11-16"
+          },
+          {
+            "first-release-date": "2019-01-11",
+            "length": 201447,
+            "id": "58002bb1-2835-4b3b-b701-cedd1666226b",
+            "video": false,
+            "title": "1999 (stripped)",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "title": "1999",
+            "video": false,
+            "length": 189200,
+            "id": "596da958-f69f-4f81-8595-f77352393b3e",
+            "first-release-date": "2018-10-05"
+          },
+          {
+            "first-release-date": "2019-01-18",
+            "length": 214000,
+            "id": "79f8c9d4-f1c6-4799-8d44-9a6118697f7a",
+            "video": false,
+            "disambiguation": "",
+            "title": "1999 (Young Franco remix)"
+          },
+          {
+            "video": false,
+            "title": "1999 (Alphalove remix)",
+            "disambiguation": "",
+            "first-release-date": "2018-11-09",
+            "id": "7b841298-8d5b-45ee-9e76-573d3cab2c5e",
+            "length": 236000
+          },
+          {
+            "video": false,
+            "disambiguation": "",
+            "title": "1999 (Dipha Barus remix)",
+            "first-release-date": "2019-01-18",
+            "length": 208000,
+            "id": "7b9670ca-02db-4795-b934-fe7209a903df"
+          },
+          {
+            "length": null,
+            "id": "836cd144-9c7c-47b1-8b38-471b493477d5",
+            "first-release-date": "2019",
+            "title": "1999 (Rmx)",
+            "disambiguation": "",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "1999",
+            "video": true,
+            "length": 209000,
+            "id": "8eed92cc-2648-4398-a20e-888983b94399"
+          },
+          {
+            "length": 172800,
+            "id": "9ec42d40-9c16-4992-9e05-84ae0281a288",
+            "first-release-date": "2018-12-21",
+            "disambiguation": "",
+            "title": "1999 (Carta remix)",
+            "video": false
+          },
+          {
+            "length": 186000,
+            "id": "b2a25fe8-1de2-4366-942f-e211c86955d3",
+            "first-release-date": "2022",
+            "disambiguation": "Dolby Atmos mix",
+            "title": "10/10",
+            "video": false
+          },
+          {
+            "title": "10/10",
+            "disambiguation": "",
+            "video": false,
+            "length": 186000,
+            "id": "c800dc2f-3c11-4743-995f-35524e8bc414",
+            "first-release-date": "2020-08-21"
+          },
+          {
+            "id": "d68ac481-adbf-4d41-8539-1a924673e83c",
+            "length": 172000,
+            "first-release-date": "2019-01-18",
+            "disambiguation": "",
+            "title": "1999 (SUPER CRUEL remix)",
+            "video": false
+          }
+        ]
+      }
+    },
+    "The Neighbourhood": {
+      "name": "The Neighbourhood",
+      "mbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+      "artist_info": {
+        "id": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "The Neighbourhood",
+        "sort-name": "Neighbourhood, The",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "37ef05e3-63be-4aa4-a5dd-ad64b35ee960",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Newbury Park",
+          "sort-name": "Newbury Park",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "indie rock, avant‐garde, and alternative hip hop band",
+        "isnis": [
+          "0000000470087703"
+        ],
+        "life-span": {
+          "begin": "2011-08",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "THE NBHD",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "THE NBHD",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "name": "tumblr"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recording-count": 176,
+        "recordings": [
+          {
+            "video": false,
+            "id": "0191dcb7-6d32-48ad-bd9f-88372832b458",
+            "title": "Afraid",
+            "length": 251186,
+            "first-release-date": "2013-04-19",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "id": "2341c551-50ed-4b0d-bca9-ee0626df50ee",
+            "title": "#icanteven",
+            "disambiguation": "",
+            "first-release-date": "2014-11-28",
+            "length": 214705
+          },
+          {
+            "video": false,
+            "id": "33b0c4f6-1df0-4568-a9b9-8ab3cb5ecf6e",
+            "title": "Afraid",
+            "length": 219000,
+            "disambiguation": "live; 2014-01: SiriusXM Studios"
+          },
+          {
+            "video": false,
+            "id": "3e57c56b-de45-4ccf-bbb3-4c8759ab1c04",
+            "title": "#icanteven",
+            "first-release-date": "2015",
+            "length": 225000,
+            "disambiguation": "clean"
+          },
+          {
+            "id": "3f3341ea-2219-4954-974d-c7717ce48af7",
+            "video": false,
+            "first-release-date": "2014-11-28",
+            "length": 268570,
+            "disambiguation": "",
+            "title": "*NSTYNCT"
+          },
+          {
+            "id": "44c2b75f-b7bf-4c45-9d70-06cbee60de7c",
+            "video": false,
+            "title": "A Little Death",
+            "first-release-date": "2023",
+            "length": 209706,
+            "disambiguation": ""
+          },
+          {
+            "id": "67893a21-f6cc-4378-901a-789d3186a0e1",
+            "video": false,
+            "first-release-date": "2013-12-10",
+            "length": 282000,
+            "disambiguation": "",
+            "title": "$TING"
+          },
+          {
+            "first-release-date": "2015-10-30",
+            "disambiguation": "",
+            "length": 30000,
+            "title": "A Moment of Silence",
+            "video": false,
+            "id": "959807ff-19ab-4192-a85d-515640e347f8"
+          },
+          {
+            "disambiguation": "",
+            "first-release-date": "2023",
+            "length": 251186,
+            "title": "Afraid",
+            "id": "95aa317f-0742-4b2c-ad84-188794abe467",
+            "video": false
+          },
+          {
+            "title": "24/7",
+            "first-release-date": "2017-09-22",
+            "length": 221707,
+            "disambiguation": "",
+            "id": "a281a660-34e7-4fa7-a73c-dd4d4cc9fba6",
+            "video": false
+          },
+          {
+            "first-release-date": "2018-03-09",
+            "disambiguation": "",
+            "length": 219973,
+            "title": "24/7",
+            "id": "ab443b01-63ef-457e-b86c-202c93cc113e",
+            "video": false
+          },
+          {
+            "id": "c4f47ef2-4109-4200-9358-cde3cbb8cacd",
+            "video": false,
+            "title": "1 of Those Weaks",
+            "first-release-date": "2014-11-28",
+            "disambiguation": "",
+            "length": 162983
+          },
+          {
+            "first-release-date": "2013-04-19",
+            "disambiguation": "",
+            "length": 209000,
+            "title": "A Little Death",
+            "video": false,
+            "id": "d11d62e9-dcb5-4632-b34f-453439a56f49"
+          },
+          {
+            "title": "A Little Death",
+            "first-release-date": "2012-12-18",
+            "disambiguation": "",
+            "length": 209707,
+            "video": false,
+            "id": "e158a977-e2b4-497e-9507-ef2a419b926a"
+          },
+          {
+            "title": "#icanteven",
+            "disambiguation": "",
+            "first-release-date": "2014-11-24",
+            "length": 234253,
+            "id": "f049f4a2-fd6c-4388-ad63-959fa067ad19",
+            "video": false
+          }
+        ]
+      }
+    },
+    "Halsey": {
+      "name": "Halsey",
+      "mbid": "3377f3bb-60fc-4403-aea9-7e800612e060",
+      "artist_info": {
+        "id": "3377f3bb-60fc-4403-aea9-7e800612e060",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Halsey",
+        "sort-name": "Halsey",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "21b399a6-45fd-4bbe-9c7c-f45dcd18d53e",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Washington",
+          "sort-name": "Washington",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "US singer/songwriter Ashley Frangipane",
+        "ipis": [
+          "00739536702"
+        ],
+        "isnis": [
+          "0000000451160151"
+        ],
+        "life-span": {
+          "begin": "1994-09-29",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Frangipane, Ashley Nicolette",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Ashley Nicolette Frangipane",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "name": "synth-pop"
+          },
+          {
+            "count": 3,
+            "name": "electropop"
+          },
+          {
+            "count": 1,
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "name": "pop rock"
+          },
+          {
+            "count": 5,
+            "name": "alternative pop"
+          },
+          {
+            "count": 2,
+            "name": "queer"
+          },
+          {
+            "count": 0,
+            "name": "r&b"
+          },
+          {
+            "count": 1,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "2010s"
+          },
+          {
+            "count": 1,
+            "name": "alternative r&b"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recording-count": 427,
+        "recordings": [
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "¿",
+            "id": "0307a69c-11b6-4dc1-af2d-f4f8a42d2c77",
+            "first-release-date": "2019-12-27",
+            "length": 313000
+          },
+          {
+            "video": false,
+            "title": "3am (stripped)",
+            "disambiguation": "",
+            "length": 213923,
+            "first-release-date": "2020-09-29",
+            "id": "2b375f99-caf1-4b24-ae90-8c9e5bfcfe5a"
+          },
+          {
+            "first-release-date": "2019-02-14",
+            "id": "3370d24f-15ff-4260-9588-6805b29fd1b7",
+            "length": 240000,
+            "disambiguation": "explicit",
+            "title": "11 Minutes",
+            "video": false
+          },
+          {
+            "id": "3814c84d-2121-4b4c-83d0-a6d850a5b7ac",
+            "first-release-date": "2020-01-17",
+            "length": 175000,
+            "disambiguation": "clean",
+            "video": false,
+            "title": "929"
+          },
+          {
+            "length": 162520,
+            "first-release-date": "2021-08-27",
+            "id": "506afa0c-27a5-4106-b8db-4e105b99ba6b",
+            "title": "1121",
+            "video": false,
+            "disambiguation": ""
+          },
+          {
+            "id": "62fc3d0a-2d33-4db8-8723-2ca51f425370",
+            "first-release-date": "2019-05-15",
+            "length": 257349,
+            "disambiguation": "",
+            "video": false,
+            "title": "11 Minutes (Kayzo remix)"
+          },
+          {
+            "length": 239538,
+            "first-release-date": "2019-02-14",
+            "id": "85a13ae8-8084-4c7c-ac40-d3655f747baa",
+            "title": "11 Minutes",
+            "video": false,
+            "disambiguation": "clean"
+          },
+          {
+            "first-release-date": "2020-01-17",
+            "id": "8f63a30c-0e38-4f5c-beeb-982bf41fd203",
+            "length": 235000,
+            "disambiguation": "explicit",
+            "title": "3am",
+            "video": false
+          },
+          {
+            "title": "1121 (demo)",
+            "video": false,
+            "disambiguation": "Dolby Atmos mix",
+            "length": 168000,
+            "first-release-date": "2022-08-31",
+            "id": "a5dbd0a9-fec6-4668-bead-8897e71d320c"
+          },
+          {
+            "video": false,
+            "title": "1121",
+            "disambiguation": "Dolby Atmos mix",
+            "length": 163000,
+            "first-release-date": "2021-08-27",
+            "id": "b48f3fb6-c45c-4276-a343-251a719a4664"
+          },
+          {
+            "disambiguation": "live, 2019-05-09: Webster Hall, New York, NY, USA",
+            "title": "100 Letters",
+            "video": false,
+            "first-release-date": "2022-06-25",
+            "id": "b910f3b7-9c5a-4f33-8fb3-17bad8722bef",
+            "length": 242257
+          },
+          {
+            "video": false,
+            "title": "3am",
+            "disambiguation": "clean",
+            "length": 235000,
+            "first-release-date": "2020-01-17",
+            "id": "bb178e8b-6e0b-45d8-a526-996200077480"
+          },
+          {
+            "id": "c5f74af9-7954-43ec-9ab2-d1a76573596c",
+            "first-release-date": "2022-08-31",
+            "length": 167679,
+            "disambiguation": "",
+            "title": "1121 (demo)",
+            "video": false
+          },
+          {
+            "length": 174853,
+            "id": "c795ae46-9b39-4313-bb1e-c6d7b23d9da3",
+            "first-release-date": "2020-01-17",
+            "title": "929",
+            "video": false,
+            "disambiguation": "explicit"
+          },
+          {
+            "disambiguation": "",
+            "title": "100 Letters",
+            "video": false,
+            "id": "ced743e6-5a08-4fcc-8b63-decc2ddc8f5e",
+            "first-release-date": "2017-06-02",
+            "length": 209980
+          }
+        ]
+      }
+    },
+    "Billie Eilish": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "artist_info": {
+        "id": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Billie Eilish",
+        "sort-name": "Eilish, Billie",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Los Angeles",
+          "sort-name": "Los Angeles",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00792187700"
+        ],
+        "isnis": [
+          "000000046748058X"
+        ],
+        "life-span": {
+          "begin": "2001-12-18",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "O’Connell, Billie Eilish Pirate Baird",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Billie Eilish Pirate Baird O’Connell",
+            "locale": "en",
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "O’Konel, Bili Ailiš Pirat Beird",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Bili Ailiš Pirat Beird O’Konel",
+            "locale": "lt",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Ailiš, Bili",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Bili Ailiš",
+            "locale": "lt",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Billija Ailiša",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Billija Ailiša",
+            "locale": "lv",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "빌리 아일리시",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "빌리 아일리시",
+            "locale": "ko",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ប៊ីលលី អៃលីស",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ប៊ីលលី អៃលីស",
+            "locale": "km",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Билли Айлиш",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Билли Айлиш",
+            "locale": "kk",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ბილი აილიში",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ბილი აილიში",
+            "locale": "ka",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Բիլլի Այլիշ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Բիլլի Այլիշ",
+            "locale": "hy",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "बिली एलीश",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "बिली एलीश",
+            "locale": "hi",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "בילי אייליש",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "בילי אייליש",
+            "locale": "he",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "بیلي آیليش",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "بیلي آیليش",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "بیلی آیلیش",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "بیلی آیلیش",
+            "locale": "fa",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Μπίλλι Άιλις",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Μπίλλι Άιλις",
+            "locale": "el",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "بیڵی_ئایڵش",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "بیڵی_ئایڵش",
+            "locale": "ckb",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "বিলি আইলিশ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "বিলি আইলিশ",
+            "locale": "bn",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Били Ейлиш",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Били Ейлиш",
+            "locale": "bg",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Білі Айліш",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Білі Айліш",
+            "locale": "be",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Billi Ayliş",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Billi Ayliş",
+            "locale": "az",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "بيلي إيليش",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "بيلي إيليش",
+            "locale": "ar",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "比莉艾莉什",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "比莉艾莉什",
+            "locale": "zh",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "ビリー・アイリッシュ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "ビリー・アイリッシュ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "O’Connell, Billie",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Billie O’Connell",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Eilish O’Connell, Billie",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Billie Eilish O’Connell",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Bil Cutie",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Bil Cutie",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": "2019-09-27",
+            "end-date": "2019-09-27"
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "electronic"
+          },
+          {
+            "count": 0,
+            "name": "downtempo"
+          },
+          {
+            "count": 6,
+            "name": "pop"
+          },
+          {
+            "count": 3,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 0,
+            "name": "usa"
+          },
+          {
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "count": 11,
+            "name": "electropop"
+          },
+          {
+            "count": 0,
+            "name": "lo-fi"
+          },
+          {
+            "count": 2,
+            "name": "indie pop"
+          },
+          {
+            "count": 0,
+            "name": "leftfield"
+          },
+          {
+            "count": 1,
+            "name": "pop rock"
+          },
+          {
+            "count": 12,
+            "name": "alternative pop"
+          },
+          {
+            "count": 0,
+            "name": "english"
+          },
+          {
+            "count": 0,
+            "name": "indietronica"
+          },
+          {
+            "count": 0,
+            "name": "los angeles"
+          },
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 0,
+            "name": "teen pop"
+          },
+          {
+            "count": 1,
+            "name": "pop soul"
+          },
+          {
+            "count": 2,
+            "name": "alt-pop"
+          },
+          {
+            "count": 0,
+            "name": "progressive pop"
+          },
+          {
+            "count": 7,
+            "name": "dark pop"
+          },
+          {
+            "count": 2,
+            "name": "contemporary r&b"
+          },
+          {
+            "count": 1,
+            "name": "2010s"
+          },
+          {
+            "count": 3,
+            "name": "art pop"
+          },
+          {
+            "count": 5,
+            "name": "alternative r&b"
+          },
+          {
+            "count": 0,
+            "name": "trap"
+          },
+          {
+            "count": 3,
+            "name": "bedroom pop"
+          },
+          {
+            "count": 3,
+            "name": "pity pop"
+          },
+          {
+            "count": -1,
+            "name": "englisch"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          },
+          {
+            "count": 0,
+            "name": "sad girl pop"
+          },
+          {
+            "count": 1,
+            "name": "gen z"
+          },
+          {
+            "count": 0,
+            "name": "late 2010s"
+          },
+          {
+            "count": 1,
+            "name": "nepo baby"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 468,
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "first-release-date": "2019-03-29",
+            "disambiguation": "",
+            "video": false,
+            "id": "1c3683c9-9008-4777-866b-5aacea6187dc",
+            "length": 168840,
+            "title": "all the good girls go to hell"
+          },
+          {
+            "video": false,
+            "id": "23caec99-7f8d-4c26-90d7-04d3750c5970",
+            "length": 173200,
+            "title": "8",
+            "first-release-date": "2019-03-29",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "live, 2019-11-06: Third Man Records, Nashville, TN, United States",
+            "first-release-date": "2019-12-06",
+            "length": null,
+            "title": "all the good girls go to hell",
+            "video": false,
+            "id": "25c52213-2409-476c-b330-d585300526e9"
+          },
+          {
+            "disambiguation": "",
+            "first-release-date": "2017-12-12",
+            "title": "&burn",
+            "length": 179016,
+            "id": "4148a1fc-aaa3-4414-abf0-7c882933dc10",
+            "video": false
+          },
+          {
+            "length": 270041,
+            "title": "6.18.18",
+            "video": false,
+            "id": "43e18b1a-4b7c-4cf8-8e91-e41844877f31",
+            "disambiguation": "live, 2018-10-20: Fox Theater, Oakland, CA, USA",
+            "first-release-date": "2019-09-27"
+          },
+          {
+            "id": "47b39cc4-3d2e-4ceb-9edc-7a3d828e807f",
+            "video": false,
+            "title": "8 (acoustic)",
+            "length": 177084,
+            "first-release-date": "2019",
+            "disambiguation": ""
+          },
+          {
+            "id": "4c0d4dfc-c80d-4db9-a1bb-75c0728777e3",
+            "video": true,
+            "title": "8 (live at the Steve Jobs Theater)",
+            "length": null,
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2019",
+            "disambiguation": "",
+            "id": "5abfb673-d2c0-4472-bae1-6f41c1a0c709",
+            "video": false,
+            "title": "All the Good Girls Go to Hell",
+            "length": 221178
+          },
+          {
+            "first-release-date": "2021-06-17",
+            "disambiguation": "live, Prime Day Show",
+            "id": "63648837-dc37-4ef1-ab17-9b6534831ce7",
+            "video": false,
+            "title": "all the good girls go to hell",
+            "length": 167000
+          },
+          {
+            "id": "6e391b3d-f5be-4cd9-80f3-f799b92728d4",
+            "video": false,
+            "title": "[talk]",
+            "length": null,
+            "first-release-date": "2025-02-02",
+            "disambiguation": "live, 2025-01-30: Intuit Dome, Inglewood, CA, USA"
+          },
+          {
+            "first-release-date": "2019-03-29",
+            "disambiguation": "",
+            "id": "75090060-75fa-4a87-aa63-c0f730d1825d",
+            "video": false,
+            "title": "!!!!!!!",
+            "length": 13573
+          },
+          {
+            "video": true,
+            "id": "755e001f-2921-44b0-b873-788dc6a79c3e",
+            "length": 171000,
+            "title": "All the Good Girls Go to Hell",
+            "disambiguation": "live, 2019-09-18: The Troubadour, Los Angeles, CA, USA"
+          },
+          {
+            "first-release-date": "2025-02-02",
+            "disambiguation": "live, 2025-01-30: Intuit Dome, Inglewood, CA, USA",
+            "id": "89e4dca4-1e38-46e0-8710-a0f760d47853",
+            "video": false,
+            "title": "[talk]",
+            "length": null
+          },
+          {
+            "disambiguation": "live, 2025-01-30: Intuit Dome, Inglewood, CA, USA",
+            "first-release-date": "2025-02-02",
+            "title": "[talk]",
+            "length": null,
+            "id": "bd8c957d-8732-428b-9abb-cd0a410da139",
+            "video": false
+          },
+          {
+            "length": 212000,
+            "title": "all the good girls go to hell",
+            "video": true,
+            "id": "d28f85cc-12d1-4472-a38f-492b6db35c39",
+            "disambiguation": "music video",
+            "first-release-date": "2019-09-04"
+          }
+        ]
+      }
+    },
+    "5 Seconds of Summer": {
+      "name": "5 Seconds of Summer",
+      "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "artist_info": {
+        "id": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "score": 100,
+        "name": "5 Seconds of Summer",
+        "sort-name": "5 Seconds of Summer",
+        "country": "AU",
+        "area": {
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Australia",
+          "sort-name": "Australia",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Sydney",
+          "sort-name": "Sydney",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "life-span": {
+          "begin": "2011",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "5SOS",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "5SOS",
+            "locale": "en",
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 0,
+            "name": "boy band"
+          },
+          {
+            "count": 8,
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "name": "power pop"
+          },
+          {
+            "count": 3,
+            "name": "teen pop"
+          },
+          {
+            "count": 2,
+            "name": "2010s"
+          },
+          {
+            "count": 4,
+            "name": "pop punk"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 346,
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "title": "18",
+            "length": 189012,
+            "id": "46be6ec8-0deb-4146-b4ac-b6b5c7c04bc5",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2014-06-27"
+          },
+          {
+            "first-release-date": "2014-12-12",
+            "disambiguation": "live, 2014",
+            "id": "4ff1ce23-ba20-4e4a-af87-f3eb5f5b8a93",
+            "video": false,
+            "title": "American Idiot",
+            "length": 200000
+          },
+          {
+            "first-release-date": "2014-10-24",
+            "disambiguation": "BBC Radio 1's Live Lounge 2014",
+            "id": "53d9b7b7-1566-4f3d-aa6a-6b91f33d9826",
+            "video": false,
+            "title": "Amnesia",
+            "length": 227071
+          },
+          {
+            "title": "Airplanes",
+            "length": 218000,
+            "id": "576e2576-2486-4015-b6cb-a40525da2d91",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2015-10-23"
+          },
+          {
+            "first-release-date": "2018-12-21",
+            "disambiguation": "live",
+            "id": "5963f69e-c36e-4771-b76e-af6c29107abc",
+            "video": false,
+            "title": "Amnesia",
+            "length": 263377
+          },
+          {
+            "first-release-date": "2014-12-12",
+            "disambiguation": "live, 2014",
+            "video": false,
+            "id": "5995d188-cc3d-4d9b-826e-70053661bc79",
+            "length": 357000,
+            "title": "18"
+          },
+          {
+            "length": null,
+            "title": "Amnesia",
+            "video": true,
+            "id": "5e4095e7-0dde-40cd-8983-57abae68b95e",
+            "disambiguation": "",
+            "first-release-date": "2014-08"
+          },
+          {
+            "disambiguation": "",
+            "first-release-date": "2014-06-11",
+            "length": 183963,
+            "title": "American Idiot",
+            "video": false,
+            "id": "67d45112-fd27-46c3-939b-6aa8a5c95139"
+          },
+          {
+            "id": "7e11e209-6acd-4999-a715-b1950507069a",
+            "video": false,
+            "title": "500 Years of Winter – Pizza Song",
+            "length": 40592,
+            "first-release-date": "2016-12-03",
+            "disambiguation": ""
+          },
+          {
+            "title": "Amnesia",
+            "length": 256000,
+            "id": "aeb0f3c9-1b76-415e-bbae-d1b6777a327c",
+            "video": false,
+            "disambiguation": "live, 2014",
+            "first-release-date": "2014-12-12"
+          },
+          {
+            "first-release-date": "2014-06-27",
+            "disambiguation": "",
+            "id": "bed7ba9b-48a0-4e4b-a110-596c45112a72",
+            "video": false,
+            "title": "Amnesia",
+            "length": 237631
+          },
+          {
+            "length": 197447,
+            "title": "2011",
+            "video": false,
+            "id": "c02d411b-957e-4ddb-879f-1be51b1472c7",
+            "disambiguation": "",
+            "first-release-date": "2021-12-03"
+          },
+          {
+            "length": 130089,
+            "title": "500 Years of Winter – Pizza Song",
+            "video": false,
+            "id": "e2c3c0cf-4b78-4227-8297-f2af4dfb5d02",
+            "disambiguation": "live",
+            "first-release-date": "2016-12-03"
+          },
+          {
+            "id": "e63cd19f-44b1-437a-8003-18116b11b441",
+            "video": false,
+            "title": "Amnesia",
+            "length": 214000,
+            "first-release-date": "2014-08-01",
+            "disambiguation": ""
+          },
+          {
+            "id": "fc127e5a-eefa-4f55-9506-f80cbf800edf",
+            "video": false,
+            "title": "Amnesia",
+            "length": null,
+            "first-release-date": "2015-01-18",
+            "disambiguation": ""
+          }
+        ]
+      }
+    },
+    "Kygo": {
+      "name": "Kygo",
+      "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+      "artist_info": {
+        "id": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Kygo",
+        "sort-name": "Kygo",
+        "gender": "male",
+        "country": "NO",
+        "area": {
+          "id": "6743d351-6f37-3049-9724-5041161fff4d",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Norway",
+          "sort-name": "Norway",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Singapore",
+          "sort-name": "Singapore",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Norwegian DJ & producer Kyrre Gørvell‐Dahll a.k.a. ※",
+        "ipis": [
+          "00755791400",
+          "00755791598"
+        ],
+        "isnis": [
+          "0000000463161864"
+        ],
+        "life-span": {
+          "begin": "1991-09-11",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Gørvell-Dahll, Kyrre",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Kyrre Gørvell-Dahll",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "※",
+            "name": "※",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "edm"
+          },
+          {
+            "count": 1,
+            "name": "house"
+          },
+          {
+            "count": 1,
+            "name": "downtempo"
+          },
+          {
+            "count": 1,
+            "name": "deep house"
+          },
+          {
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "count": 2,
+            "name": "tropical house"
+          },
+          {
+            "count": 1,
+            "name": "english"
+          },
+          {
+            "count": 1,
+            "name": "dance"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recording-count": 321,
+        "recordings": [
+          {
+            "title": "Can’t Get Enough (orchestral version)",
+            "video": false,
+            "disambiguation": "",
+            "length": 197176,
+            "first-release-date": "2025-06-27",
+            "id": "01822ce1-9410-4e97-ad4e-c3a86fa6b433"
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Broken Glass",
+            "first-release-date": "2020-05-29",
+            "id": "05632b88-1027-4049-8221-25cce8381fa9",
+            "length": 203947
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Born to Be Yours",
+            "id": "2b423d67-be82-47a9-8f2c-bd931e8d0d36",
+            "first-release-date": "2018-06-15",
+            "length": 192400
+          },
+          {
+            "length": 239000,
+            "first-release-date": "2024-07-26",
+            "id": "3336ead9-54b0-4121-aaae-1fd14086eebf",
+            "video": false,
+            "title": "Can’t Do It on My Own",
+            "disambiguation": "part of “Summertime Sounds 2024” DJ‐mix"
+          },
+          {
+            "disambiguation": "part of “Ministry of Sound: The Annual 2019 (AU)” DJ‐mix",
+            "title": "Born to Be Yours",
+            "video": false,
+            "first-release-date": "2018-11-09",
+            "id": "3445e1c2-4e9f-4d08-8272-2180648518e6",
+            "length": 184000
+          },
+          {
+            "id": "38e0a676-16d9-4fd2-b974-f5a75f5f88c7",
+            "first-release-date": "2013-06-25",
+            "length": 450000,
+            "disambiguation": "",
+            "title": "Angels (Kygo edit)",
+            "video": false
+          },
+          {
+            "first-release-date": "2020-05-29",
+            "id": "39ad5a43-9138-4bd9-8c11-5553dde96cb0",
+            "length": 217766,
+            "disambiguation": "",
+            "title": "Beautiful",
+            "video": false
+          },
+          {
+            "first-release-date": "2025-05-02",
+            "id": "55f0c624-49ea-4e0e-8df4-7d1fc0f23b5b",
+            "length": 165277,
+            "disambiguation": "",
+            "title": "Can’t Get Enough",
+            "video": false
+          },
+          {
+            "video": false,
+            "title": "Can't Afford It All (Kygo Remix)",
+            "length": 320000,
+            "disambiguation": "",
+            "id": "71e84ccd-1cae-4962-a43c-3ac05cc52287"
+          },
+          {
+            "first-release-date": "2024-06-21",
+            "id": "71efc861-f477-4e0d-a848-944b080e5a7b",
+            "length": 244000,
+            "disambiguation": "",
+            "title": "Can’t Do It on My Own",
+            "video": false
+          },
+          {
+            "title": "All for Love",
+            "video": false,
+            "disambiguation": "",
+            "length": 302853,
+            "id": "7edd101c-b28a-47d5-b66f-ab5764ec6701",
+            "first-release-date": "2022-11-11"
+          },
+          {
+            "video": false,
+            "title": "Can’t Do It on My Own",
+            "disambiguation": "live: Trolltunga, Ullensvang, Norway",
+            "length": 242000,
+            "first-release-date": "2024-06-21",
+            "id": "91aa8451-b93b-472f-ba12-0eb221ba1808"
+          },
+          {
+            "disambiguation": "",
+            "id": "b6f1e210-7813-4968-b4f0-6cb12fe15159",
+            "length": 321000,
+            "title": "Brother (Kygo Remix)",
+            "video": false
+          },
+          {
+            "title": "Born To Be Yours",
+            "video": false,
+            "disambiguation": "",
+            "length": 192840,
+            "id": "cdd0de8b-58d4-458d-b6a3-3df8ef5867a4",
+            "first-release-date": "2018"
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Carry Me",
+            "first-release-date": "2016-05-13",
+            "id": "ce61cb8f-2a7b-4bfd-aaeb-5000bd2ac86f",
+            "length": 233000
+          }
+        ]
+      }
+    },
+    "Ruel": {
+      "name": "Ruel",
+      "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+      "artist_info": {
+        "id": "bc153bd5-7963-4195-a6fb-c38588f31007",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Ruel",
+        "sort-name": "Ruel",
+        "gender": "male",
+        "country": "AU",
+        "area": {
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "Australia",
+          "sort-name": "Australia",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "8b889dad-0465-42de-af22-c1a087cd3b44",
+          "type": "District",
+          "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+          "name": "Isleworth",
+          "sort-name": "Isleworth",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Australian singer and songwriter",
+        "isnis": [
+          "000000047574563X"
+        ],
+        "life-span": {
+          "begin": "2002-10-29",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Dijk, Ruel van",
+            "name": "Ruel van Dijk",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Dijk, Ruel Vincent van",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Ruel Vincent van Dijk",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 116,
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "video": false,
+            "id": "153b0294-3b9a-4d00-afea-1240388cd956",
+            "first-release-date": "2024-12-18",
+            "length": 213080,
+            "disambiguation": "",
+            "title": "Cats on the Ceiling (hisstrumental)"
+          },
+          {
+            "title": "courage",
+            "disambiguation": "",
+            "length": 209826,
+            "first-release-date": "2020-10-23",
+            "id": "29fadb7a-9e14-4da0-9eb2-5d0e1a396710",
+            "video": false
+          },
+          {
+            "first-release-date": "2024-10-16",
+            "length": 213080,
+            "title": "Cats on the Ceiling",
+            "disambiguation": "",
+            "video": false,
+            "id": "2f9f9a0a-2858-4403-a4b0-0c508541e6e6"
+          },
+          {
+            "length": 226000,
+            "first-release-date": "2024-07-18",
+            "title": "Call out My Name",
+            "disambiguation": "",
+            "video": false,
+            "id": "5418d917-52d9-4076-a933-32c22fe44f2f"
+          },
+          {
+            "length": 188041,
+            "first-release-date": "2025-10-17",
+            "title": "Destroyer",
+            "disambiguation": "",
+            "video": false,
+            "id": "551ea6db-983c-4a84-8dc8-42aaf12963c5"
+          },
+          {
+            "title": "Destroyer",
+            "disambiguation": "",
+            "first-release-date": "2025-10-17",
+            "length": 188042,
+            "id": "630c4854-9d11-430e-b556-eb6220b04203",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "Cats on the Ceiling (acapurrlla)",
+            "first-release-date": "2024-12-18",
+            "length": 213080,
+            "id": "6ebaaeda-35db-471e-bbb8-b907e7b43fea",
+            "video": false
+          },
+          {
+            "length": 189608,
+            "first-release-date": "2018-04-27",
+            "title": "Dazed & Confused",
+            "disambiguation": "",
+            "video": false,
+            "id": "792ef702-5272-4976-a613-d72f29c532bc"
+          },
+          {
+            "id": "7e160e3e-df40-4a50-958d-37926dea0f9d",
+            "video": false,
+            "disambiguation": "",
+            "title": "Cats on the Ceiling (catnap version)",
+            "first-release-date": "2024-12-18",
+            "length": 262571
+          },
+          {
+            "video": false,
+            "id": "7e79cd27-0888-4474-a63e-30415436f428",
+            "length": 193189,
+            "first-release-date": "2020-09-10",
+            "title": "as long as you care",
+            "disambiguation": ""
+          },
+          {
+            "length": 184486,
+            "first-release-date": "2024-12-18",
+            "title": "Cats on the Ceiling (catnip version)",
+            "disambiguation": "",
+            "video": false,
+            "id": "ad285660-2aa3-40c1-8352-5d7769b72ed0"
+          },
+          {
+            "id": "b955489d-5d89-47c2-a560-afc7a65b6e62",
+            "video": false,
+            "title": "Cats on the Ceiling (stripped)",
+            "disambiguation": "",
+            "first-release-date": "2024-12-18",
+            "length": 212833
+          },
+          {
+            "length": null,
+            "first-release-date": "2021-07-17",
+            "title": "as long as you care (instrumental)",
+            "disambiguation": "",
+            "video": false,
+            "id": "cefff430-fc42-42e2-ac47-2bb743193550"
+          },
+          {
+            "disambiguation": "",
+            "title": "As Long as You Care",
+            "first-release-date": "2020",
+            "length": 190746,
+            "id": "ed3ebc16-35ef-4438-a158-35808b2708e1",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "Dandelion",
+            "length": 202652,
+            "first-release-date": "2025-01-15",
+            "id": "f82f63ec-577f-4da9-a3fa-a7257c36be53",
+            "video": false
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Music Recommendation</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app-shell">
+
+    <!-- Loading bar (shows while backend is running) -->
+    <div class="loading-bar hidden" id="loading-bar">
+      <div class="loading-bar-fill"></div>
+      <span class="loading-text">Curating your playlist…</span>
+    </div>
+
+    <!-- Top bar / title -->
+    <header class="top-bar">
+      <div class="brand">
+        <span class="brand-logo">◎</span>
+        <div class="brand-text">
+          <h1>Music Recommendation Lab</h1>
+          <p>Music Discovery With MusicBrainz</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- Preferences / input card -->
+    <section class="card prefs-card">
+      <form id="musicForm" class="prefs-grid">
+        <div class="prefs-col">
+          <label class="field-label">Login ID / Username</label>
+          <input id="user_id" type="text" value="user123" required />
+
+          <label class="field-label">Favorite Artists</label>
+          <input
+            id="artists"
+            type="text"
+            placeholder="Lana Del Rey, Taylor Swift"
+          />
+        </div>
+
+        <div class="prefs-col">
+          <label class="field-label">Favorite Genres</label>
+          <!-- changed: text input -> dropdown (multi-select) -->
+          <select id="genres" multiple class="select-input">
+            <option value="pop">Pop</option>
+            <option value="rock">Rock</option>
+            <option value="indie">Indie</option>
+            <option value="alternative">Alternative</option>
+            <option value="r&b">R&amp;B</option>
+            <option value="hip hop">Hip hop</option>
+            <option value="electronic">Electronic</option>
+            <option value="dance">Dance</option>
+            <option value="jazz">Jazz</option>
+            <option value="classical">Classical</option>
+            <option value="country">Country</option>
+            <option value="metal">Metal</option>
+            <option value="k-pop">K-Pop</option>
+            <option value="latin">Latin</option>
+          </select>
+
+          <label class="field-label">Mood (optional)</label>
+          <!-- changed: text input -> single-select dropdown -->
+          <select id="mood" class="select-input">
+            <option value="">Any mood</option>
+            <option value="happy">Happy / upbeat</option>
+            <option value="chill">Chill / relaxed</option>
+            <option value="melancholic">Melancholic</option>
+            <option value="energetic">Energetic</option>
+            <option value="romantic">Romantic</option>
+            <option value="focus">Focus / study</option>
+            <option value="party">Party</option>
+          </select>
+        </div>
+
+        <div class="prefs-actions">
+          <button type="submit" class="primary-btn">
+            Build / Update Playlist
+          </button>
+          <span class="sessions-pill">
+            Sessions: <span id="sessions">0</span>
+          </span>
+        </div>
+      </form>
+    </section>
+
+    <main class="layout-grid">
+
+      <!-- Now Playing card -->
+      <section class="card now-playing" id="now-playing-card">
+        <div class="vinyl-wrapper">
+          <div class="vinyl">
+            <div class="vinyl-center"></div>
+            <div class="vinyl-groove groove-1"></div>
+            <div class="vinyl-groove groove-2"></div>
+          </div>
+
+          <!-- animated notes -->
+          <div class="notes">
+            <span class="note note-1">♪</span>
+            <span class="note note-2">♫</span>
+            <span class="note note-3">♪</span>
+          </div>
+
+          <div class="tonearm"></div>
+        </div>
+
+        <div class="now-playing-info">
+          <p class="eyebrow">Now playing</p>
+          <h2 id="np-title">No track yet</h2>
+          <p id="np-artist" class="np-artist">Run the playlist to start</p>
+
+          <div class="np-meta">
+            <span>Playlist v<span id="version">–</span></span>
+            <span class="dot">•</span>
+            <span>MusicBrainz • AI curated</span>
+          </div>
+
+          <p id="explanation" class="np-explanation">
+            Your recommendations will appear here once you generate a playlist.
+          </p>
+
+          <div class="controls-row">
+            <button type="button" class="icon-btn ghost">
+              ◄◄
+            </button>
+            <button type="button" class="icon-btn main-play">
+              ▶
+            </button>
+            <button type="button" class="icon-btn ghost">
+              ►►
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Playlist card -->
+      <section class="card playlist-card">
+        <div class="card-header">
+          <div>
+            <p class="eyebrow">Playlist</p>
+            <h2>Tracklist</h2>
+          </div>
+        </div>
+
+        <div class="playlist-scroll">
+          <ul id="all-tracks" class="track-list"></ul>
+        </div>
+      </section>
+
+      <!-- Diff card -->
+      <section class="card diff-card" id="result">
+        <div class="card-header">
+          <div>
+            <p class="eyebrow">Session changes</p>
+            <h2>What’s new this time?</h2>
+          </div>
+        </div>
+
+        <div class="diff-columns">
+          <div class="diff-column">
+            <h3>New</h3>
+            <ul id="new-tracks" class="track-list small"></ul>
+          </div>
+          <div class="diff-column">
+            <h3>Kept</h3>
+            <ul id="kept-tracks" class="track-list small"></ul>
+          </div>
+          <div class="diff-column">
+            <h3>Removed</h3>
+            <ul id="removed-tracks" class="track-list small"></ul>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

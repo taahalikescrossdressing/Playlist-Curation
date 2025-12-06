@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Selena Gomez",
+    "title": "Bang a Drum",
+    "mbid": "05702394-9dfb-4642-9dee-e2dd459f9829",
+    "source": "MB recording (seed)",
+    "release_date": "2008-08-26"
+  },
+  {
+    "artist": "Selena Gomez",
+    "title": "Birthday",
+    "mbid": "06624e65-e25c-48a9-aa11-171aa28b14aa",
+    "source": "MB recording (seed)",
+    "release_date": "2013-07-19"
+  },
+  {
+    "artist": "Selena Gomez",
+    "title": "Anxiety",
+    "mbid": "191f4da0-32fb-4924-9389-1fde22cfe59f",
+    "source": "MB recording (seed)",
+    "release_date": "2019-01-25"
+  },
+  {
+    "artist": "Selena Gomez",
+    "title": "B.E.A.T.",
+    "mbid": "2753f656-7d64-4aa4-bf1c-662fc05947fe",
+    "source": "MB recording (seed)",
+    "release_date": "2013-07-19"
+  },
+  {
+    "artist": "Selena Gomez",
+    "title": "Bidi Bidi Bom Bom",
+    "mbid": "2f30f4ae-f0d4-4031-a497-30d13494c124",
+    "source": "MB recording (seed)",
+    "release_date": "2012-04-03"
+  }
+]

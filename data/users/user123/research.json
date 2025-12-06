@@ -1,0 +1,2460 @@
+{
+  "seed_artists": {
+    "Gracie Abrahams": {
+      "name": "Gracie Abrams",
+      "mbid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+      "artist_info": {
+        "id": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Gracie Abrams",
+        "sort-name": "Abrams, Gracie",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Los Angeles",
+          "sort-name": "Los Angeles",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00855025638"
+        ],
+        "life-span": {
+          "begin": "1999-09-07",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "그레이시 에이브럼스",
+            "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+            "name": "그레이시 에이브럼스",
+            "locale": null,
+            "type": "Search hint",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 3,
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 4,
+            "name": "folk pop"
+          },
+          {
+            "count": 2,
+            "name": "bedroom pop"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          },
+          {
+            "count": 0,
+            "name": "nepo baby"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 207,
+        "recordings": [
+          {
+            "id": "002aaeeb-c494-495f-8b32-c80931fed3be",
+            "first-release-date": "2021-11-12",
+            "length": 170805,
+            "disambiguation": "",
+            "video": false,
+            "title": "Better"
+          },
+          {
+            "id": "07553505-e4e9-4b02-858e-4cb5c104a5fb",
+            "first-release-date": "2023-06-16",
+            "length": 181900,
+            "disambiguation": "",
+            "title": "405",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "21",
+            "id": "0cadae10-a549-4695-8548-843462357708",
+            "first-release-date": "2020-02-20",
+            "length": 185172
+          },
+          {
+            "first-release-date": "2021-11-12",
+            "id": "0fafc1e1-4042-426e-b0d9-b50ec3a61d3b",
+            "length": 237758,
+            "disambiguation": "",
+            "title": "Augusta",
+            "video": false
+          },
+          {
+            "video": false,
+            "title": "Blowing Smoke (Apple Music Live)",
+            "disambiguation": "live, 2025-08-11: Red Rocks Amphitheatre, Morrison, CO, USA",
+            "length": 254000,
+            "id": "19a56f7f-7c60-43cb-a08c-e6bf858e1006",
+            "first-release-date": "2025-10-29"
+          },
+          {
+            "disambiguation": "Dolby Atmos mix",
+            "id": "21a72f37-f58b-47cb-b8d3-c60ec6f0dea7",
+            "length": 170805,
+            "video": false,
+            "title": "Better"
+          },
+          {
+            "length": 240000,
+            "first-release-date": "2024-02-02",
+            "id": "246dd639-112b-4062-aa6c-d305a21c0324",
+            "title": "American Teenager",
+            "video": true,
+            "disambiguation": "live, 2024-02-02: Triple J Studios, Sydney, Australia"
+          },
+          {
+            "first-release-date": "2023-02-24",
+            "id": "2509d403-a568-479f-a0da-f33fe08f35d2",
+            "length": 233499,
+            "disambiguation": "Dolby Atmos mix",
+            "title": "Best",
+            "video": false
+          },
+          {
+            "length": null,
+            "id": "259e26ac-3ef8-48cc-96fd-433a601fe6e3",
+            "first-release-date": "2025-02-02",
+            "video": false,
+            "title": "[talk]",
+            "disambiguation": "live, 2025-01-30: Intuit Dome, Inglewood, CA, USA"
+          },
+          {
+            "length": 259592,
+            "id": "355cd20d-b0bb-4fc7-8e84-19e037b3d3c3",
+            "first-release-date": "2023-02-10",
+            "video": false,
+            "title": "Amelie",
+            "disambiguation": ""
+          },
+          {
+            "id": "50b133bf-d416-47eb-a839-84b0b64975b1",
+            "first-release-date": "2023-06-16",
+            "length": 181900,
+            "disambiguation": "Dolby Atmos mix",
+            "title": "405",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Amelie",
+            "id": "5101ed0f-58bc-498e-991f-fdb0d669756b",
+            "first-release-date": "2024-02-23",
+            "length": null
+          },
+          {
+            "first-release-date": "2025-10-29",
+            "id": "656dbabf-e931-46bf-b429-2e5cc84fdc9d",
+            "length": 197000,
+            "disambiguation": "live, 2025-08-11: Red Rocks Amphitheatre, Morrison, CO, USA",
+            "title": "21 (Apple Music Live)",
+            "video": false
+          },
+          {
+            "title": "Call Me When You Break Up",
+            "video": false,
+            "disambiguation": "",
+            "length": 126831,
+            "first-release-date": "2025-02-20",
+            "id": "7548c65a-e411-45b6-98c9-0a1640a41587"
+          },
+          {
+            "first-release-date": "2023-02-10",
+            "id": "7c29a22e-c9fc-4786-9707-c6d6909368da",
+            "length": 259592,
+            "disambiguation": "Dolby Atmos mix",
+            "video": false,
+            "title": "Amelie"
+          },
+          {
+            "length": 188000,
+            "first-release-date": "2025-04-12",
+            "id": "7d0b3cda-b314-41a9-b681-4de5a3c57fbc",
+            "video": false,
+            "title": "21",
+            "disambiguation": "live, 2024-10-04, The Secret Of Us (Live From Radio City Music Hall)"
+          },
+          {
+            "length": null,
+            "first-release-date": "2025-02-02",
+            "id": "84f70eab-54d8-46a6-b9ae-0b9fd1290c22",
+            "video": false,
+            "title": "A Long December",
+            "disambiguation": "live, 2025-01-30: Intuit Dome, Inglewood, CA, USA"
+          },
+          {
+            "length": 221000,
+            "title": "Brush Fire (live)",
+            "video": false,
+            "disambiguation": "",
+            "id": "8cf9e523-91c9-4454-bb56-0aebc94a4f52"
+          },
+          {
+            "id": "8edb2c5d-7758-4eaa-972f-4ba331a8ee9a",
+            "first-release-date": "2024-02-23",
+            "length": null,
+            "disambiguation": "",
+            "title": "Block Me Out",
+            "video": false
+          },
+          {
+            "length": 190000,
+            "id": "941aab6c-5a4b-4ab4-8cdd-90b34eb2d273",
+            "first-release-date": "2020-12-09",
+            "title": "Brush Fire",
+            "video": false,
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Alright",
+            "id": "a339f47a-b14a-47a9-b18d-d5d07a70fcd5",
+            "first-release-date": "2021-11-12",
+            "length": 144485
+          },
+          {
+            "disambiguation": "Dolby Atmos mix",
+            "id": "a5bf2286-e182-40c5-a809-2cb79ef8cb9a",
+            "title": "Alright",
+            "video": false,
+            "length": 144485
+          },
+          {
+            "length": null,
+            "first-release-date": "2024-02-23",
+            "id": "aa6e1ba3-32f5-4c1a-b087-aa458bd8a5cd",
+            "title": "Best",
+            "video": false,
+            "disambiguation": ""
+          },
+          {
+            "title": "Augusta",
+            "video": false,
+            "length": 237758,
+            "disambiguation": "Dolby Atmos mix",
+            "id": "b1ac69b5-75e4-4d84-8327-33b75696a2b2"
+          },
+          {
+            "disambiguation": "",
+            "title": "Best",
+            "video": false,
+            "id": "bbf4e587-97c3-4c3f-b90a-93f66a29281e",
+            "first-release-date": "2023-02-24",
+            "length": 233499
+          },
+          {
+            "id": "c6c6f533-404c-47a3-97da-78b026d72a37",
+            "first-release-date": "2022-04-08",
+            "length": 249494,
+            "disambiguation": "",
+            "video": false,
+            "title": "Block me out"
+          },
+          {
+            "length": 251000,
+            "first-release-date": "2025-04-12",
+            "id": "d2dba931-1c67-4feb-a5c0-83f8f1eb4778",
+            "title": "Blowing Smoke",
+            "video": false,
+            "disambiguation": "live, 2024-10-04, The Secret Of Us (Live From Radio City Music Hall)"
+          },
+          {
+            "length": 249494,
+            "first-release-date": "2023-06-16",
+            "id": "e75eb209-abba-4180-b282-b6f20feed1c8",
+            "video": false,
+            "title": "Block me out",
+            "disambiguation": "Dolby Atmos mix"
+          },
+          {
+            "disambiguation": "",
+            "title": "Blowing Smoke",
+            "video": false,
+            "first-release-date": "2024-06-20",
+            "id": "e78218e7-d38d-4b5f-a16d-5a12f392720f",
+            "length": 232267
+          },
+          {
+            "length": 232000,
+            "first-release-date": "2024-06-21",
+            "id": "ed12157b-bc8c-49ac-88ff-955c683d13e3",
+            "video": false,
+            "title": "Blowing Smoke",
+            "disambiguation": "Dolby Atmos mix"
+          }
+        ],
+        "recording-offset": 0
+      }
+    }
+  },
+  "similar_artists": {
+    "Phoebe Bridgers": {
+      "name": "Phoebe Bridgers",
+      "mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+      "artist_info": {
+        "id": "96855c21-b832-4366-ba12-0d2330c36a86",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Phoebe Bridgers",
+        "sort-name": "Bridgers, Phoebe",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "56e1c305-859d-4fbb-8a7c-6e45e1b8ebf1",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Pasadena",
+          "sort-name": "Pasadena",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00720955444"
+        ],
+        "isnis": [
+          "0000000466124145"
+        ],
+        "life-span": {
+          "begin": "1994-08-17",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 2,
+            "name": "folk"
+          },
+          {
+            "count": 8,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 7,
+            "name": "indie rock"
+          },
+          {
+            "count": 6,
+            "name": "indie folk"
+          },
+          {
+            "count": 2,
+            "name": "contemporary folk"
+          },
+          {
+            "count": 2,
+            "name": "chamber pop"
+          },
+          {
+            "count": 0,
+            "name": "slowcore"
+          },
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 1,
+            "name": "alternative folk"
+          },
+          {
+            "count": 1,
+            "name": "christmas music"
+          },
+          {
+            "count": 0,
+            "name": "singer/songwriter"
+          },
+          {
+            "count": 0,
+            "name": "bad"
+          },
+          {
+            "count": 0,
+            "name": "bad music"
+          },
+          {
+            "count": 1,
+            "name": "_private tag 1"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "video": false,
+            "disambiguation": "",
+            "title": "Chinese Satellite (Copycat Killer version)",
+            "first-release-date": "2020-11-20",
+            "id": "338c5577-ad5c-45dd-89a1-782625eabd91",
+            "length": 210627
+          },
+          {
+            "first-release-date": "2014-09-28",
+            "length": 233706,
+            "id": "3e0e0b96-a4c7-410e-8ee1-1f5b735750f9",
+            "video": false,
+            "title": "Coming Down",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "title": "Chelsea",
+            "video": false,
+            "length": 282000,
+            "id": "44dd4a06-8d2c-44ce-b1b6-f78928fcafca",
+            "first-release-date": "2017-09-22"
+          },
+          {
+            "id": "45c1e07c-d274-4122-933a-468044542ad8",
+            "length": 289000,
+            "first-release-date": "2016",
+            "title": "Chelsea",
+            "disambiguation": "",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "title": "Chinese Satellite (Voice Memo)",
+            "video": false,
+            "id": "6dccebd2-89ca-4865-a876-270273ef5081",
+            "length": 209000,
+            "first-release-date": "2020-09-04"
+          },
+          {
+            "length": 217000,
+            "id": "7755714e-353d-4827-9a6f-22b251426327",
+            "first-release-date": "2020-06-18",
+            "title": "Chinese Satellite",
+            "disambiguation": "",
+            "video": false
+          },
+          {
+            "length": 120426,
+            "id": "8b104baa-89e7-43e5-83de-72afa34bb877",
+            "first-release-date": "2019-12-12",
+            "disambiguation": "",
+            "title": "7 O’Clock News / Silent Night",
+            "video": false
+          },
+          {
+            "video": false,
+            "disambiguation": "",
+            "title": "Christmas Song",
+            "first-release-date": "2018-11-29",
+            "length": 221906,
+            "id": "975bc7bb-5c60-4744-aa72-b1824345648a"
+          },
+          {
+            "first-release-date": "2014-09-28",
+            "id": "99c5f17d-7a89-4a46-bd56-ceb6ee5cba14",
+            "length": 289573,
+            "video": false,
+            "title": "Chelsea",
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2014-03-31",
+            "id": "9d7c397b-e236-40af-89eb-d58afdf578df",
+            "length": 328000,
+            "video": false,
+            "disambiguation": "",
+            "title": "Chelsea"
+          },
+          {
+            "length": null,
+            "id": "b6a9d239-99a8-431f-be14-54b4b025e307",
+            "disambiguation": "",
+            "title": "Chelsea",
+            "video": false
+          },
+          {
+            "title": "Chinese Satellite (Live From Sound City)",
+            "disambiguation": "",
+            "video": false,
+            "id": "c45e7936-1039-4616-a56c-f7468743b972",
+            "length": 234000,
+            "first-release-date": "2022-03-11"
+          },
+          {
+            "id": "cdf690ba-55ae-4df5-a071-5bfc25e8f76f",
+            "length": 236000,
+            "video": false,
+            "disambiguation": "",
+            "title": "Black Boys on Mopeds"
+          },
+          {
+            "first-release-date": "2021-10-08",
+            "length": 319000,
+            "id": "d0464e77-ceac-47bc-a41d-861d6c82639f",
+            "video": false,
+            "title": "Atlantis",
+            "disambiguation": ""
+          },
+          {
+            "title": "Claw Machine",
+            "disambiguation": "",
+            "video": false,
+            "id": "f05107a8-6eeb-472d-b3d7-28c77ed1caa8",
+            "length": 227787,
+            "first-release-date": "2024-05-10"
+          }
+        ],
+        "recording-count": 170,
+        "recording-offset": 0
+      }
+    },
+    "Lucy Dacus": {
+      "name": "Lucy Dacus",
+      "mbid": "dbe7fdf7-81b2-418b-b3f6-81ae71532f40",
+      "artist_info": {
+        "id": "dbe7fdf7-81b2-418b-b3f6-81ae71532f40",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Lucy Dacus",
+        "sort-name": "Dacus, Lucy",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Richmond",
+          "sort-name": "Richmond",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00786643000"
+        ],
+        "isnis": [
+          "0000000462987453"
+        ],
+        "life-span": {
+          "begin": "1995-05-02",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 3,
+            "name": "indie rock"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "first-release-date": "2025-03-28",
+            "id": "29bf3d20-8917-4497-b2d5-544d279bd740",
+            "length": 203490,
+            "disambiguation": "",
+            "video": false,
+            "title": "Bullseye"
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Addictions",
+            "first-release-date": "2018-01-16",
+            "id": "2dd8ea33-0e68-44db-973b-9009fe1d7dcc",
+            "length": 204125
+          },
+          {
+            "disambiguation": "",
+            "title": "Brando",
+            "video": false,
+            "id": "38099621-a06c-4cd3-a465-999641fb8960",
+            "first-release-date": "2021-06-08",
+            "length": 180026
+          },
+          {
+            "length": 191476,
+            "first-release-date": "2025-01-15",
+            "id": "4e85b9fa-0b0b-486f-9d58-a929b15b456d",
+            "video": false,
+            "title": "Ankles",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "title": "Bullseye",
+            "disambiguation": "live, 2025-04-23: Radio City Music Hall, New York, NY, USA",
+            "length": 227083,
+            "first-release-date": "2025-10-10",
+            "id": "51f1cb29-25db-4ddf-873d-6447053be738"
+          },
+          {
+            "length": 174744,
+            "first-release-date": "2025-08-08",
+            "id": "56cff7c3-c6fd-4670-bf28-0d3dbf3aa5dc",
+            "video": false,
+            "title": "Bus Back to Richmond",
+            "disambiguation": ""
+          },
+          {
+            "title": "Body to Flame",
+            "video": false,
+            "disambiguation": "",
+            "length": 185966,
+            "first-release-date": "2018-03-02",
+            "id": "6f9d9b25-2c6e-4661-96a3-1d78eb344e49"
+          },
+          {
+            "disambiguation": "",
+            "title": "Big Deal",
+            "video": false,
+            "id": "8d0a1c1b-6f17-4c29-b2fe-aaf1a1226e65",
+            "first-release-date": "2025-03-28",
+            "length": 259216
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Believe",
+            "id": "ac6208ef-fb4c-4993-a661-af2904369e1a",
+            "first-release-date": "2022-07-20",
+            "length": 248000
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "… Familiar Place",
+            "first-release-date": "2016-02-16",
+            "id": "ac9fa8df-fc88-48ca-a54d-2b7f157b027d",
+            "length": 175773
+          },
+          {
+            "video": false,
+            "title": "Calliope Prelude",
+            "disambiguation": "",
+            "length": 76817,
+            "id": "ccfdbdfe-c23d-4261-b5ac-80373de43853",
+            "first-release-date": "2025-03-28"
+          },
+          {
+            "id": "d191fb9b-8a0a-47b7-80d7-9d00f8cf857d",
+            "first-release-date": "2025-10-10",
+            "length": 190648,
+            "disambiguation": "",
+            "title": "Ankles (demo)",
+            "video": false
+          },
+          {
+            "first-release-date": "2012",
+            "id": "d8dc4b9a-0173-4429-97f2-8c2e8152b7da",
+            "length": null,
+            "disambiguation": "",
+            "video": false,
+            "title": "Black Lungs"
+          },
+          {
+            "first-release-date": "2025-10-10",
+            "id": "f04fc9d6-59da-4efe-ab30-e744cf05f8fb",
+            "length": 205206,
+            "disambiguation": "",
+            "video": false,
+            "title": "Best Guess (wedding version)"
+          },
+          {
+            "length": 240364,
+            "first-release-date": "2025-02-10",
+            "id": "f7132f2f-3d98-4730-9e08-5f629d60216c",
+            "video": false,
+            "title": "Best Guess",
+            "disambiguation": ""
+          }
+        ],
+        "recording-count": 85
+      }
+    },
+    "Julien Baker": {
+      "name": "Julien Baker",
+      "mbid": "e3bda984-f349-4924-b4b8-f72478bbb3f3",
+      "artist_info": {
+        "id": "e3bda984-f349-4924-b4b8-f72478bbb3f3",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Julien Baker",
+        "sort-name": "Baker, Julien",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Memphis",
+          "sort-name": "Memphis",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00762558513"
+        ],
+        "isnis": [
+          "0000000462940102"
+        ],
+        "life-span": {
+          "begin": "1995-09-29",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Baker, Julien Rose",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Julien Rose Baker",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "alternative rock"
+          },
+          {
+            "count": 2,
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "name": "indie folk"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 111,
+        "recording-offset": 0,
+        "recordings": [
+          {
+            "id": "0563d668-32c7-4c5b-8863-3b9e4284019b",
+            "video": false,
+            "disambiguation": "",
+            "title": "Bottom of a Bottle",
+            "length": 236023,
+            "first-release-date": "2025-04-15"
+          },
+          {
+            "title": "Bloodshot",
+            "disambiguation": "",
+            "length": 227307,
+            "first-release-date": "2021-02-26",
+            "id": "0800ea67-a2b6-4971-972c-065c0f41f83f",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "1669f18b-1208-4388-9271-09bdc725e00a",
+            "first-release-date": "2019-11-15",
+            "length": 438573,
+            "disambiguation": "",
+            "title": "Bless This Hell"
+          },
+          {
+            "title": "Anthem Part Two",
+            "disambiguation": "",
+            "first-release-date": "2020-09-08",
+            "length": 211000,
+            "id": "4a5ead46-7b70-4a75-a2e2-77d576a93240",
+            "video": false
+          },
+          {
+            "first-release-date": "2019-03",
+            "length": 110000,
+            "title": "\"Thank God I'm full of holes\"",
+            "disambiguation": "",
+            "video": false,
+            "id": "4ae88800-6614-4f4f-bb17-39fadc8f92e6"
+          },
+          {
+            "length": 180585,
+            "first-release-date": "2020-11-18",
+            "title": "A Dreamer's Holiday",
+            "disambiguation": "",
+            "video": false,
+            "id": "60fe2f98-581c-4aaf-a732-e254281fae8b"
+          },
+          {
+            "id": "8a9e6d8e-46a8-4c26-a7bb-72091008ebbe",
+            "video": false,
+            "disambiguation": "",
+            "title": "Appointments",
+            "length": 273467,
+            "first-release-date": "2017-08-17"
+          },
+          {
+            "id": "96051d2a-bb1f-4139-8ffd-890f43cac363",
+            "video": false,
+            "title": "Ballad of Big Nothing",
+            "disambiguation": "",
+            "length": 174986,
+            "first-release-date": "2016-09-29"
+          },
+          {
+            "first-release-date": "2015-10-22",
+            "length": 284230,
+            "disambiguation": "",
+            "title": "Blacktop",
+            "video": false,
+            "id": "9f1c6bdc-c3c6-47aa-8575-5beb991898ca"
+          },
+          {
+            "first-release-date": "2015-10-23",
+            "length": 283509,
+            "disambiguation": "",
+            "title": "Blacktop",
+            "video": false,
+            "id": "a7fe82b6-bdfd-4496-9d0e-f22866abe34d"
+          },
+          {
+            "video": false,
+            "id": "ca126533-d0d5-4246-9cdf-a37402fe13f2",
+            "length": 249336,
+            "first-release-date": "2018-02-23",
+            "title": "Bad Things To Such Good People",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "id": "d01c2bce-7f54-4758-87b2-086749fbe357",
+            "first-release-date": "2021-09-01",
+            "length": 226957,
+            "disambiguation": "",
+            "title": "Bloodshot (Helios Remix)"
+          },
+          {
+            "video": false,
+            "id": "d992e40e-f126-4ca7-9aaa-58f6a486e524",
+            "first-release-date": "2019-03",
+            "length": 34000,
+            "title": "\"Making me feel really understood\"",
+            "disambiguation": ""
+          },
+          {
+            "title": "\"A really thick Scottish accent\"",
+            "disambiguation": "",
+            "length": 46000,
+            "first-release-date": "2019-03",
+            "id": "d99d43e3-9013-4c74-9e9b-c4fb7e1be949",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "fd97a184-34d9-411b-aad6-21b4f98d7a4e",
+            "length": 218000,
+            "first-release-date": "2018-12-14",
+            "title": "All I Want",
+            "disambiguation": ""
+          }
+        ]
+      }
+    },
+    "Vagabon": {
+      "name": "Vagabon",
+      "mbid": "4b50ec9e-ea83-4824-8dae-2e520d45e6f9",
+      "artist_info": {
+        "id": "4b50ec9e-ea83-4824-8dae-2e520d45e6f9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Vagabon",
+        "sort-name": "Vagabon",
+        "gender": "female",
+        "area": {
+          "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "New York",
+          "sort-name": "New York",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "583184ad-dea9-44d2-a634-987ec85c26fd",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Yaoundé",
+          "sort-name": "Yaoundé",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Cameroonian-American singer-songwriter and multi-instrumentalist",
+        "life-span": {
+          "begin": "1993-10-25",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Tamko, Laetitia",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Laetitia Tamko",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "name": "indie"
+          },
+          {
+            "count": 1,
+            "name": "alternative"
+          },
+          {
+            "count": 1,
+            "name": "pop rock"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "length": 193301,
+            "first-release-date": "2017-04-13",
+            "disambiguation": "live, 2017-03-31: Audiotree, Chicago, IL, US",
+            "title": "Cleaning House",
+            "video": false,
+            "id": "1cc6c550-a5f5-4046-bc2d-5a85f3e3d48b"
+          },
+          {
+            "first-release-date": "2023-09-15",
+            "length": 191440,
+            "title": "Anti‐Fuck",
+            "disambiguation": "",
+            "video": false,
+            "id": "2b974c7f-89fa-4f41-8083-3c4aec2a715f"
+          },
+          {
+            "length": 207413,
+            "first-release-date": "2023-09-15",
+            "title": "Do Your Worst",
+            "disambiguation": "",
+            "video": false,
+            "id": "42610662-d3c6-49ae-8aae-846b1299c8c3"
+          },
+          {
+            "title": "Autobahn",
+            "disambiguation": "",
+            "first-release-date": "2023-09-15",
+            "length": 208000,
+            "id": "45da87e6-64fa-47ae-80d9-d6ea6b7901c0",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "55f25828-dc56-4b7e-80e1-a229374152be",
+            "first-release-date": "2017-02-24",
+            "length": 128853,
+            "title": "100 Years",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "title": "Can I Talk My Shit?",
+            "length": 205173,
+            "first-release-date": "2023-06-15",
+            "id": "586c7667-0c96-4667-8fc4-08735ca3c24f",
+            "video": false
+          },
+          {
+            "id": "5b9237fa-66bd-40e8-bd37-9b9be7a0b8c2",
+            "video": false,
+            "disambiguation": "",
+            "title": "Carpenter",
+            "first-release-date": "2023-01-12",
+            "length": 199267
+          },
+          {
+            "length": 104671,
+            "first-release-date": "2017-04-13",
+            "disambiguation": "live, 2017-03-31: Audiotree, Chicago, IL, US",
+            "title": "(No Name)",
+            "video": false,
+            "id": "922174aa-df7b-4fc8-a2dc-9f105decfd32"
+          },
+          {
+            "title": "Alive and a Well",
+            "disambiguation": "",
+            "first-release-date": "2017-02-24",
+            "length": 242813,
+            "id": "9cf08fad-f59f-4f99-8791-abcf4f9f8f3b",
+            "video": false
+          },
+          {
+            "length": 185098,
+            "first-release-date": "2017-04-13",
+            "disambiguation": "live, 2017-03-31: Audiotree, Chicago, IL, US",
+            "title": "Cold Apartment",
+            "video": false,
+            "id": "a3040045-1c15-44e6-839f-3124d8190bdd"
+          },
+          {
+            "first-release-date": "2023-09-15",
+            "length": 199267,
+            "title": "Carpenter",
+            "disambiguation": "",
+            "video": false,
+            "id": "b9025ff5-e63e-4a37-8a5a-22bed81b154f"
+          },
+          {
+            "length": 288480,
+            "first-release-date": "2021-04-01",
+            "disambiguation": "",
+            "title": "Don’t Do It",
+            "video": false,
+            "id": "c7061781-f328-4fba-97e5-f750780484b8"
+          },
+          {
+            "first-release-date": "2014-11-07",
+            "length": 213000,
+            "title": "Cold Apartment Floors",
+            "disambiguation": "",
+            "video": false,
+            "id": "d43e98e9-a43c-4b6b-864e-251af7ec3d15"
+          },
+          {
+            "id": "dacaabe2-dab4-4c65-b33e-3f4cdb280616",
+            "video": false,
+            "disambiguation": "",
+            "title": "Cold Apartment",
+            "length": 205880,
+            "first-release-date": "2017-02-24"
+          },
+          {
+            "first-release-date": "2017-02-24",
+            "length": 197520,
+            "title": "Cleaning House",
+            "disambiguation": "",
+            "video": false,
+            "id": "f07dd9ed-8c2b-4752-be2f-e3edd91671cf"
+          }
+        ],
+        "recording-count": 61,
+        "recording-offset": 0
+      }
+    },
+    "Arlo Parks": {
+      "name": "Arlo Parks",
+      "mbid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+      "artist_info": {
+        "id": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Arlo Parks",
+        "sort-name": "Parks, Arlo",
+        "gender": "female",
+        "country": "GB",
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United Kingdom",
+          "sort-name": "United Kingdom",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "London",
+          "sort-name": "London",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "Alternative R&B artist",
+        "ipis": [
+          "00371247076"
+        ],
+        "isnis": [
+          "0000000476235543"
+        ],
+        "life-span": {
+          "begin": "2000-08-09",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Marinho, Anaïs Oluwatoyin Estelle",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Anaïs Oluwatoyin Estelle Marinho",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "name": "hip hop"
+          },
+          {
+            "count": 1,
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "name": "indie"
+          },
+          {
+            "count": 1,
+            "name": "soul"
+          },
+          {
+            "count": 1,
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "name": "soft rock"
+          },
+          {
+            "count": 1,
+            "name": "neo soul"
+          },
+          {
+            "count": 2,
+            "name": "alternative pop"
+          },
+          {
+            "count": 1,
+            "name": "english"
+          },
+          {
+            "count": 3,
+            "name": "r&b"
+          },
+          {
+            "count": 1,
+            "name": "alternative r&b"
+          },
+          {
+            "count": 1,
+            "name": "bedroom pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-offset": 0,
+        "recording-count": 113,
+        "recordings": [
+          {
+            "video": false,
+            "title": "[interview]",
+            "first-release-date": "2021-02-19",
+            "length": null,
+            "id": "013b8b53-d708-4012-a213-62515deaeab4",
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2021",
+            "title": "Bags",
+            "video": false,
+            "disambiguation": "",
+            "id": "05d48c0b-4617-4d39-be03-3e0a93f7602b",
+            "length": 88293
+          },
+          {
+            "first-release-date": "2021",
+            "video": false,
+            "title": "Black Dog",
+            "disambiguation": "",
+            "id": "2d51aaa1-e9df-466c-8874-e3e1ae303234",
+            "length": 284826
+          },
+          {
+            "disambiguation": "",
+            "id": "2e326cf5-79ed-4f7f-88de-fa7fc631df48",
+            "length": null,
+            "first-release-date": "2021-02-19",
+            "title": "[interview]",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "id": "39f08b80-b42a-4676-a967-b22160e766c3",
+            "length": 228760,
+            "first-release-date": "2020-05-04",
+            "video": false,
+            "title": "Black Dog"
+          },
+          {
+            "length": 159400,
+            "id": "39fc7167-4e55-44cd-ab8f-eddf159ddf96",
+            "disambiguation": "",
+            "title": "Baby Blue",
+            "video": false,
+            "first-release-date": "2021"
+          },
+          {
+            "length": 169000,
+            "disambiguation": "live, 2020: The Steel Yard, London, UK",
+            "id": "3b3a5bcc-d834-46b2-9d81-eb5b670ae2ec",
+            "title": "Angel’s Song",
+            "video": false,
+            "first-release-date": "2021-01-29"
+          },
+          {
+            "disambiguation": "",
+            "id": "543d7be2-6fed-4aae-a96a-016bd0e8a62a",
+            "length": null,
+            "first-release-date": "2021-02-19",
+            "title": "[interview]",
+            "video": false
+          },
+          {
+            "first-release-date": "2021-01-29",
+            "title": "Black Dog",
+            "video": false,
+            "id": "6797c888-e0ba-48cd-ad81-50637185922b",
+            "disambiguation": "live, 2020: The Steel Yard, London, UK",
+            "length": 261000
+          },
+          {
+            "first-release-date": "2021",
+            "title": "Black Dog",
+            "video": false,
+            "disambiguation": "",
+            "id": "88b7d0e0-163e-44dd-86ac-7c516d21e0f5",
+            "length": 264573
+          },
+          {
+            "video": false,
+            "title": "Baby Blue (lo fi lounge)",
+            "first-release-date": "2021-01-29",
+            "length": 158000,
+            "id": "ae928dfc-49eb-4234-838a-cc7c911ab18a",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "title": "Angel’s Song",
+            "first-release-date": "2019-04-05",
+            "length": 197244,
+            "id": "bdcb1a6b-c6bf-466b-8867-c411a172d87c",
+            "disambiguation": ""
+          },
+          {
+            "title": "[interview]",
+            "video": false,
+            "first-release-date": "2021-02-19",
+            "length": null,
+            "id": "c04995ed-28b1-4bb9-9d60-285f1def4733",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "title": "[interview]",
+            "first-release-date": "2021-02-19",
+            "length": null,
+            "disambiguation": "",
+            "id": "e00da106-d2d1-4816-a0ea-6afd953dfb06"
+          },
+          {
+            "disambiguation": "",
+            "id": "f5635a1a-75bb-489a-b362-febbd2b4f070",
+            "length": 87000,
+            "first-release-date": "2021-01-29",
+            "video": false,
+            "title": "Bags (lo fi lounge)"
+          }
+        ]
+      }
+    },
+    "Snail Mail": {
+      "name": "Snail Mail",
+      "mbid": "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+      "artist_info": {
+        "id": "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Snail Mail",
+        "sort-name": "Snail Mail",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Baltimore",
+          "sort-name": "Baltimore",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "disambiguation": "US indie rock solo project by Lindsey Erin Jordan",
+        "isnis": [
+          "0000000499740024"
+        ],
+        "life-span": {
+          "begin": "1999-06-16",
+          "ended": null
+        },
+        "tags": [
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 2,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "name": "indie"
+          },
+          {
+            "count": 1,
+            "name": "lo-fi"
+          },
+          {
+            "count": 1,
+            "name": "pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 71,
+        "recordings": [
+          {
+            "video": false,
+            "id": "036627ed-b868-4249-affc-b232eacebb17",
+            "length": 203266,
+            "first-release-date": "2021-11-05",
+            "disambiguation": "",
+            "title": "c. et al."
+          },
+          {
+            "title": "Anytime",
+            "first-release-date": "2018-06-08",
+            "disambiguation": "",
+            "length": 278053,
+            "id": "0c832b6c-3b27-4dd3-aaf5-9f035c98e967",
+            "video": false
+          },
+          {
+            "title": "[banter]",
+            "length": 46739,
+            "disambiguation": "live, 2019-07-21: Pitchfork Music Festival, Chicago, IL, USA",
+            "id": "200a58f1-25eb-4e5d-82ff-0167478a04d0",
+            "video": false
+          },
+          {
+            "length": 41356,
+            "disambiguation": "live, 2019-07-21: Pitchfork Music Festival, Chicago, IL, USA",
+            "title": "[banter]",
+            "id": "2d54799a-f89d-4363-bcaa-afbdd8d1b792",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "52b10d8e-bcf8-4f4b-9ebd-12b4f655bba9",
+            "first-release-date": "2021",
+            "length": null,
+            "disambiguation": "part of “Combinisions II” DJ‐mix",
+            "title": "Anytime"
+          },
+          {
+            "title": "[banter]",
+            "length": 53831,
+            "disambiguation": "live, 2019-07-21: Pitchfork Music Festival, Chicago, IL, USA",
+            "id": "64a45be5-1ecc-45eb-ac84-56cc7a2fd426",
+            "video": false
+          },
+          {
+            "id": "6d929a2c-19d3-4d4b-9abc-c1d18672ee40",
+            "video": false,
+            "length": 274400,
+            "first-release-date": "2000",
+            "disambiguation": "",
+            "title": "5-Leaf-Clover"
+          },
+          {
+            "id": "77dd8a61-9624-4e8b-9e4f-32312a3bbfc9",
+            "video": false,
+            "title": "Deep Sea",
+            "disambiguation": "",
+            "first-release-date": "2018-06-08",
+            "length": 282400
+          },
+          {
+            "video": false,
+            "id": "857470f0-7f4e-478d-82fa-68c197cfa850",
+            "title": "Automate",
+            "length": 189026,
+            "first-release-date": "2021-11-05",
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2021-11-05",
+            "length": 181760,
+            "disambiguation": "",
+            "title": "Ben Franklin",
+            "id": "8fc4930f-eac8-4239-afe0-b1d09263a826",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "9c7783f6-503f-491d-b03c-f0caacd46744",
+            "title": "c. et al. (demo)",
+            "first-release-date": "2023-11-03",
+            "length": 254507,
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2023-11-03",
+            "disambiguation": "",
+            "length": 216280,
+            "title": "Adore You (demo)",
+            "video": false,
+            "id": "c424e4ae-f9b2-449e-acad-564ab9ae577b"
+          },
+          {
+            "title": "[intro]",
+            "disambiguation": "live, 2019-07-21: Pitchfork Music Festival, Chicago, IL, USA",
+            "length": 42638,
+            "id": "cf1e1498-8427-4e37-a006-1652058873ef",
+            "video": false
+          },
+          {
+            "id": "f95c9fc5-665d-4cc2-8410-d3f2b905c132",
+            "video": false,
+            "length": 217306,
+            "first-release-date": "2021-11-05",
+            "disambiguation": "",
+            "title": "Adore You (Valentine demo)"
+          },
+          {
+            "title": "Automate (demo)",
+            "first-release-date": "2023-11-03",
+            "length": 119253,
+            "disambiguation": "",
+            "id": "ff230919-3e19-42c0-b4e9-eb5bfe151b4b",
+            "video": false
+          }
+        ],
+        "recording-offset": 0
+      }
+    },
+    "Clairo": {
+      "name": "Clairo",
+      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+      "artist_info": {
+        "id": "d786f59b-1836-4ddb-8393-ab753edbe984",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Clairo",
+        "sort-name": "Clairo",
+        "gender": "female",
+        "country": "US",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": "Country",
+          "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+          "name": "United States",
+          "sort-name": "United States",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Atlanta",
+          "sort-name": "Atlanta",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00886249388",
+          "00889656453"
+        ],
+        "life-span": {
+          "begin": "1998-08-18",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Cottrill, Claire Elizabeth",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Claire Elizabeth Cottrill",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "クレイロ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "クレイロ",
+            "locale": "ja",
+            "type": "Artist name",
+            "primary": true,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Cottrill, Claire E.",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Claire E. Cottrill",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Cottrill, Claire",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "Claire Cottrill",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "DJ BABY BENZ",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "DJ BABY BENZ",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "singer-songwriter"
+          },
+          {
+            "count": 2,
+            "name": "indie"
+          },
+          {
+            "count": 2,
+            "name": "alternative"
+          },
+          {
+            "count": 1,
+            "name": "lo-fi"
+          },
+          {
+            "count": 3,
+            "name": "indie pop"
+          },
+          {
+            "count": 2,
+            "name": "indie folk"
+          },
+          {
+            "count": 1,
+            "name": "dream pop"
+          },
+          {
+            "count": 1,
+            "name": "queer"
+          },
+          {
+            "count": 1,
+            "name": "sophisti-pop"
+          },
+          {
+            "count": 1,
+            "name": "2010s"
+          },
+          {
+            "count": 2,
+            "name": "bedroom pop"
+          },
+          {
+            "count": 1,
+            "name": "2020s"
+          },
+          {
+            "count": 1,
+            "name": "gen z"
+          }
+        ]
+      },
+      "recordings": {
+        "recording-count": 245,
+        "recordings": [
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "Add Up My Love",
+            "id": "1c6e21a9-f90b-4bd8-8b75-a397e05f347b",
+            "first-release-date": "2024-07-12",
+            "length": 205000
+          },
+          {
+            "id": "1dc4ad3f-da63-445a-8c16-501e2cbd873f",
+            "first-release-date": "2023-05-12",
+            "length": 224946,
+            "disambiguation": "Live at Electric Lady",
+            "video": false,
+            "title": "Amoeba"
+          },
+          {
+            "video": false,
+            "title": "An Angel Cry",
+            "disambiguation": "",
+            "length": 153000,
+            "id": "32498d15-967b-4ef4-a651-8f4ad31ae2d3",
+            "first-release-date": "2019-09-11"
+          },
+          {
+            "title": "4,018",
+            "video": false,
+            "disambiguation": "",
+            "length": 120000,
+            "first-release-date": "2017-05-23",
+            "id": "3290d315-86b3-4677-bf5e-1768b9d80f01"
+          },
+          {
+            "title": "Amoeba",
+            "video": false,
+            "disambiguation": "",
+            "length": 228000,
+            "id": "3438bc61-52ec-4a3b-b113-210f68e8205e",
+            "first-release-date": "2021-07-16"
+          },
+          {
+            "length": 159595,
+            "id": "3a8e5ec6-b206-4aa0-90b5-eb7088d48a96",
+            "first-release-date": "2018-04-27",
+            "video": false,
+            "title": "4EVER",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "title": "Anticipate",
+            "video": false,
+            "first-release-date": "2025-06-02",
+            "id": "3ab2f07f-490e-49ef-aad0-680f5149c970",
+            "length": 189284
+          },
+          {
+            "first-release-date": "2025-06-02",
+            "id": "6d870dcf-6a12-4a76-8269-eb32e92e3989",
+            "length": 189284,
+            "disambiguation": "",
+            "title": "Anticipate",
+            "video": false
+          },
+          {
+            "length": 213000,
+            "first-release-date": "2019-08-02",
+            "id": "76c13794-ab90-4685-a188-8552d3952ed5",
+            "title": "Alewife",
+            "video": false,
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2024-07-12",
+            "id": "8de1a5f1-653c-45be-bf4c-e1fff37a5376",
+            "length": 205000,
+            "disambiguation": "Dolby Atmos mix",
+            "video": false,
+            "title": "Add Up My Love"
+          },
+          {
+            "title": "7th gr8de",
+            "video": false,
+            "disambiguation": "",
+            "length": 133793,
+            "id": "abe9bf07-d431-4737-a24c-a5e88730f5fd",
+            "first-release-date": "2015-05-15"
+          },
+          {
+            "title": "a place we knew",
+            "video": false,
+            "disambiguation": "",
+            "length": 184000,
+            "first-release-date": "2014-11-26",
+            "id": "ca8e3c3a-a9fc-4712-b196-b8e4f47134a0"
+          },
+          {
+            "video": false,
+            "title": "2 Hold U",
+            "disambiguation": "",
+            "length": 118000,
+            "id": "cee8886c-192b-47c3-b69d-c13d0d28cf00",
+            "first-release-date": "2017-04-13"
+          },
+          {
+            "disambiguation": "",
+            "video": false,
+            "title": "#12 Looks Just Like You",
+            "first-release-date": "2016-04-10",
+            "id": "d1de46f0-7bd9-415e-9d06-d573b38b277d",
+            "length": 154481
+          },
+          {
+            "disambiguation": "",
+            "title": "After Midnight",
+            "video": false,
+            "id": "e0c7bf85-75c2-47e1-a4ea-f51582c27604",
+            "first-release-date": "2023-03-16",
+            "length": 188000
+          }
+        ],
+        "recording-offset": 0
+      }
+    },
+    "Rex Orange County": {
+      "name": "Rex Orange County",
+      "mbid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+      "artist_info": {
+        "id": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "name": "Rex Orange County",
+        "sort-name": "Rex Orange County",
+        "gender": "male",
+        "area": {
+          "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "England",
+          "sort-name": "England",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "dcb5af71-b0ca-4609-8484-f74a393d1ac5",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Haslemere",
+          "sort-name": "Haslemere",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00825780125"
+        ],
+        "isnis": [
+          "0000000466253238"
+        ],
+        "life-span": {
+          "begin": "1998-05-04",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "O'Connor, Alexander",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Alexander O'Connor",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "O'Connor, Alexander James",
+            "name": "Alexander James O'Connor",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 2,
+            "name": "bedroom pop"
+          },
+          {
+            "count": 1,
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "name": "neo soul"
+          },
+          {
+            "count": 1,
+            "name": "leftfield"
+          },
+          {
+            "count": 2,
+            "name": "alternative pop"
+          },
+          {
+            "count": 2,
+            "name": "pop"
+          },
+          {
+            "count": 1,
+            "name": "r&b"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "video": false,
+            "id": "00ce0091-8a5c-42dc-821f-433939e1783c",
+            "first-release-date": "2020-10-02",
+            "length": 370430,
+            "disambiguation": "live, 2020-02-07 or 2020-02-08: Radio City Music Hall, New York, NY, USA",
+            "title": "Always"
+          },
+          {
+            "length": 172000,
+            "disambiguation": "live, SiriusXM Studios",
+            "title": "10/10",
+            "video": false,
+            "id": "1fc6c5d5-c897-45a3-ade6-c019599756fc"
+          },
+          {
+            "title": "Alexander",
+            "disambiguation": "",
+            "first-release-date": "2024-09-06",
+            "length": 284613,
+            "id": "24626da7-7635-4997-9b2c-7d3b7990c401",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "25522c93-1282-41c1-b787-6140b497d1e7",
+            "length": 153637,
+            "first-release-date": "2024-09-06",
+            "disambiguation": "",
+            "title": "2008"
+          },
+          {
+            "first-release-date": "2019-10-25",
+            "length": 197330,
+            "title": "Always",
+            "disambiguation": "",
+            "video": false,
+            "id": "5c9ffc4b-7221-4a7f-8ea0-b698ad6596c9"
+          },
+          {
+            "disambiguation": "",
+            "title": "Belly (The Grass Stains)",
+            "first-release-date": "2015-09-04",
+            "length": 259735,
+            "id": "5e104b21-a5d2-4585-9298-684da80c4d92",
+            "video": false
+          },
+          {
+            "id": "74e23d6f-360b-43ca-96ea-d109549bd468",
+            "video": false,
+            "disambiguation": "",
+            "title": "4 in the Morning",
+            "length": 127558,
+            "first-release-date": "2024-09-06"
+          },
+          {
+            "id": "91f18264-1963-4d30-8989-d26992c64b43",
+            "video": false,
+            "disambiguation": "",
+            "title": "AMAZING",
+            "length": 209000,
+            "first-release-date": "2022-02-14"
+          },
+          {
+            "id": "a99e8c3d-19b7-46ac-ad9a-d137b49ade8b",
+            "video": false,
+            "disambiguation": "",
+            "title": "7AM",
+            "length": 199000,
+            "first-release-date": "2022-03-11"
+          },
+          {
+            "length": 136000,
+            "first-release-date": "2015-09-04",
+            "disambiguation": "",
+            "title": "A Song About Being Sad",
+            "video": false,
+            "id": "d8492fbe-6455-4f54-b872-29578789b1ba"
+          },
+          {
+            "video": false,
+            "id": "dfa294c6-2211-453e-8c18-37af6c657494",
+            "length": 146102,
+            "first-release-date": "2019-09-12",
+            "disambiguation": "",
+            "title": "10/10"
+          },
+          {
+            "video": false,
+            "id": "e4345517-039c-4c1e-b18e-8dbb1bbcbe78",
+            "length": 280580,
+            "first-release-date": "2020-10-02",
+            "disambiguation": "live, 2020-02-07 or 2020-02-08: Radio City Music Hall, New York, NY, USA",
+            "title": "10/10"
+          },
+          {
+            "first-release-date": "2017-04-26",
+            "length": 238585,
+            "title": "Apricot Princess",
+            "disambiguation": "",
+            "video": false,
+            "id": "e6492bd0-c6b9-4ea2-abf2-0a5b56889d5a"
+          },
+          {
+            "video": false,
+            "id": "e6d10d10-800d-4cf6-bc5b-ead539fc706b",
+            "length": 171000,
+            "first-release-date": "2019-10-10",
+            "title": "10/10",
+            "disambiguation": "live, 2019-10-10: Tonight Show, Los Angeles, CA"
+          },
+          {
+            "disambiguation": "",
+            "title": "4 Seasons",
+            "length": 301836,
+            "first-release-date": "2017-04-26",
+            "id": "ef931cf4-849e-4ab7-bbac-409fbaa639ab",
+            "video": false
+          }
+        ],
+        "recording-offset": 0,
+        "recording-count": 93
+      }
+    },
+    "Beabadoobee": {
+      "name": "beabadoobee",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+      "artist_info": {
+        "id": "88d17133-abbc-42db-9526-4e2c1db60336",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "beabadoobee",
+        "sort-name": "beabadoobee",
+        "gender": "female",
+        "area": {
+          "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+          "type": "Subdivision",
+          "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+          "name": "England",
+          "sort-name": "England",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "begin-area": {
+          "id": "8230bd24-92ad-40f3-b10e-2671a587cd25",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Iloilo City",
+          "sort-name": "Iloilo City",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "isnis": [
+          "0000000478453798"
+        ],
+        "life-span": {
+          "begin": "2000-06-03",
+          "ended": null
+        },
+        "aliases": [
+          {
+            "sort-name": "Bea Regner",
+            "name": "Bea Regner",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Bea Ilejay",
+            "name": "Bea Ilejay",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "beabadoobee",
+            "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+            "name": "beabadoobee",
+            "locale": null,
+            "type": "Artist name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Kristi, Bea",
+            "name": "Bea Kristi",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          },
+          {
+            "sort-name": "Laus, Beatrice",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "name": "Beatrice Laus",
+            "locale": null,
+            "type": "Legal name",
+            "primary": null,
+            "begin-date": null,
+            "end-date": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "pop"
+          },
+          {
+            "count": 3,
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "name": "lo-fi"
+          },
+          {
+            "count": 3,
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "name": "space rock"
+          },
+          {
+            "count": 1,
+            "name": "pop folk"
+          },
+          {
+            "count": 3,
+            "name": "bedroom pop"
+          }
+        ]
+      },
+      "recordings": {
+        "recordings": [
+          {
+            "disambiguation": "",
+            "first-release-date": "2023-10-20",
+            "length": 233388,
+            "title": "A Night to Remember",
+            "video": false,
+            "id": "0ce783dd-9777-4f1d-a8c8-3782737ef4fa"
+          },
+          {
+            "title": "10:36 (bedroom sessions)",
+            "length": 48000,
+            "id": "159da86b-d016-49f8-964f-5f824271f244",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2022-09-21"
+          },
+          {
+            "disambiguation": "",
+            "video": true,
+            "id": "26a9c7ba-38db-4f26-a42e-630d879e015e",
+            "length": 239000,
+            "title": "A Night to Remember"
+          },
+          {
+            "disambiguation": "live, 2022‐10‐19: O₂ Academy Brixton, London, UK",
+            "first-release-date": "2023-09-29",
+            "title": "10:36",
+            "length": 266202,
+            "id": "2940efb6-4b43-4be4-8637-0d22edd83add",
+            "video": false
+          },
+          {
+            "disambiguation": "",
+            "first-release-date": "2024-08-09",
+            "length": 152000,
+            "title": "A Cruel Affair",
+            "video": false,
+            "id": "302f9ef2-1847-4c78-8eb5-f6f6e155e307"
+          },
+          {
+            "disambiguation": "live",
+            "length": 198000,
+            "title": "10:36",
+            "video": true,
+            "id": "34ab416b-ce14-4616-bbcc-ae191be8e872"
+          },
+          {
+            "id": "48850e70-55d8-4839-a1de-76c9cd490a58",
+            "video": false,
+            "title": "Angel",
+            "length": 193253,
+            "first-release-date": "2019-04-26",
+            "disambiguation": ""
+          },
+          {
+            "first-release-date": "2022-06-15",
+            "disambiguation": "",
+            "id": "48ce8aef-86ce-4b69-a77b-5552c8841d3f",
+            "video": false,
+            "title": "10:36",
+            "length": 195000
+          },
+          {
+            "first-release-date": "2024-08-09",
+            "disambiguation": "Dolby Atmos mix",
+            "video": false,
+            "id": "adba4bf8-5662-488f-8f22-36485a513bbf",
+            "length": 152000,
+            "title": "A Cruel Affair"
+          },
+          {
+            "disambiguation": "",
+            "first-release-date": "2019-07-08",
+            "title": "1999 (Bedroom session)",
+            "length": 168032,
+            "id": "b9314d91-68ce-43c3-85cd-c7a52576e762",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "bb1041b9-b2ea-4254-bdf0-3b4919c8106c",
+            "length": 198000,
+            "title": "10:36",
+            "first-release-date": "2023-12-06",
+            "disambiguation": "live, 2023-08-14: The Greek Theatre, Los Angeles, CA, USA"
+          },
+          {
+            "id": "bc832b76-3b51-46b0-a06a-1d83462e8cf5",
+            "video": false,
+            "title": "10:36",
+            "length": 195000,
+            "first-release-date": "2022-07-15",
+            "disambiguation": "Dolby Atmos mix"
+          },
+          {
+            "disambiguation": "Dolby Atmos mix",
+            "first-release-date": "2023-10-20",
+            "length": 233000,
+            "title": "A Night to Remember",
+            "video": false,
+            "id": "bd9e018b-ce6e-4912-80c4-b48380ac41c2"
+          },
+          {
+            "first-release-date": "2022-07-15",
+            "disambiguation": "",
+            "id": "d3b2ad20-510f-4f3e-b5a6-9f0981bf2428",
+            "video": false,
+            "title": "10:36 (Antidote live session)",
+            "length": 147000
+          },
+          {
+            "id": "e55d6e74-ef32-4630-b7cd-764c5c726660",
+            "video": false,
+            "title": "1999",
+            "length": 191129,
+            "first-release-date": "2019-04-26",
+            "disambiguation": ""
+          }
+        ],
+        "recording-offset": 0,
+        "recording-count": 228
+      }
+    },
+    "Phoebe Green": {
+      "name": "Phoebe Green",
+      "mbid": "1f5e9abf-e61a-4ac8-bb5b-677bae08f38c",
+      "artist_info": {
+        "id": "1f5e9abf-e61a-4ac8-bb5b-677bae08f38c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "score": 100,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "Phoebe Green",
+        "sort-name": "Green, Phoebe",
+        "gender": "female",
+        "area": {
+          "id": "852531bf-3410-401f-b432-9c3157a386b9",
+          "type": "City",
+          "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+          "name": "Manchester",
+          "sort-name": "Manchester",
+          "life-span": {
+            "ended": null
+          }
+        },
+        "ipis": [
+          "00825589108"
+        ],
+        "life-span": {
+          "ended": null
+        }
+      },
+      "recordings": {
+        "recording-count": 49,
+        "recordings": [
+          {
+            "video": false,
+            "id": "2be5093f-f40a-4c5e-82bd-707ffcea1008",
+            "title": "A World I Forgot",
+            "first-release-date": "2020-12-03",
+            "disambiguation": "",
+            "length": 172000
+          },
+          {
+            "id": "3f7d3175-4e4c-4de2-93aa-f707958ab625",
+            "video": false,
+            "first-release-date": "2022-08-19",
+            "length": 162686,
+            "disambiguation": "",
+            "title": "DieDieDie"
+          },
+          {
+            "first-release-date": "2023-11-20",
+            "length": 169984,
+            "disambiguation": "",
+            "title": "Baby Uh Huh",
+            "id": "456d46ec-0854-42f5-9b0d-5d7494cc9bb5",
+            "video": false
+          },
+          {
+            "video": false,
+            "id": "4c05c88c-bed5-451c-9e60-7fb68743ae1d",
+            "title": "Embarrass Me (Live in London)",
+            "length": 291230,
+            "first-release-date": "2024-10-18",
+            "disambiguation": ""
+          },
+          {
+            "id": "5583ce51-1aba-4506-a204-96e72865b4f9",
+            "video": false,
+            "title": "Embarrass Me",
+            "disambiguation": "",
+            "first-release-date": "2024-02-09",
+            "length": 202940
+          },
+          {
+            "video": false,
+            "id": "89d476c9-801e-47a1-a0d4-70bb2a1911eb",
+            "first-release-date": "2016-11-21",
+            "length": 297000,
+            "disambiguation": "",
+            "title": "A Phonecall"
+          },
+          {
+            "id": "8cd6743f-5528-445d-a471-85e0b3ea67fe",
+            "video": false,
+            "title": "Clean",
+            "disambiguation": "",
+            "first-release-date": "2022-08-19",
+            "length": 197071
+          },
+          {
+            "video": false,
+            "id": "941e6ae1-ef3e-44d9-95e3-a7480b206a56",
+            "title": "Crying In The Club",
+            "length": 185395,
+            "first-release-date": "2022-08-19",
+            "disambiguation": ""
+          },
+          {
+            "video": false,
+            "id": "be1a58cb-b204-4b96-bb64-fea5a4bd182b",
+            "title": "Golden Girl",
+            "length": 195000,
+            "first-release-date": "2020-12-03",
+            "disambiguation": ""
+          },
+          {
+            "title": "Break Your Heart",
+            "first-release-date": "2022-08-19",
+            "length": 166485,
+            "disambiguation": "",
+            "id": "c6bd3528-16e2-4b6a-9ce7-3d9fb56d7fa2",
+            "video": false
+          },
+          {
+            "first-release-date": "2019-08-22",
+            "disambiguation": "",
+            "length": 211000,
+            "title": "Easy Peeler",
+            "id": "daaa258a-1bf7-4026-9fad-0b3efc82d294",
+            "video": false
+          },
+          {
+            "first-release-date": "2024-05-24",
+            "disambiguation": "",
+            "length": 202940,
+            "title": "Embarrass Me",
+            "video": false,
+            "id": "e0efa2c4-5ae9-43f0-8517-c1d8ef82bab0"
+          },
+          {
+            "id": "e8235d2f-0fd8-4dea-98b3-7f092e8dac95",
+            "video": false,
+            "first-release-date": "2019-03-29",
+            "length": 254978,
+            "disambiguation": "",
+            "title": "Dreaming Of"
+          },
+          {
+            "first-release-date": "2016-11-21",
+            "disambiguation": "",
+            "length": 207000,
+            "title": "Drive",
+            "id": "f3263800-afcd-44cd-a5a9-3fe9d588c7d0",
+            "video": false
+          },
+          {
+            "id": "f5396849-4cc4-422f-9cd8-acc632d8f48b",
+            "video": false,
+            "disambiguation": "",
+            "first-release-date": "2020-12-03",
+            "length": 207000,
+            "title": "Grit"
+          }
+        ],
+        "recording-offset": 0
+      }
+    }
+  }
+}
