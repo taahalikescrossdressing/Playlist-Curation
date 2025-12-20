@@ -2,7 +2,7 @@
 A demo to showcase the use of deep agents and file systems for context engineering.
 
 ## The user will enter these details and enter the "Build and Update Playlist" button
-<img width="1913" height="841" alt="image" src="https://github.com/user-attachments/assets/f9fec6b3-466a-422b-9ca4-972fcb6a8e48" />
+<img width="1600" height="710" alt="image" src="https://github.com/user-attachments/assets/b4103d66-98e8-450b-94cf-54df6be7f118" />
 
 
 ## it will explain you why it is suggesting you this and all :
